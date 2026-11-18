@@ -264,7 +264,7 @@ async function enviarResultado(quiz, gabarito, respostas, acertos, nota, cfg, at
       quiz: quiz, turma: ALUNO_TURMA, aluno: ALUNO_ATUAL,
       gabarito: gabarito, respostas: respostas,
       acertos: acertos, nota: nota, config: cfg, atingiuMeta: !!atingiuMeta,
-      status: "concluido", data: new Date().toISOString(),
+      status: "concluido", saidas: SAIDAS_QUIZ, data: new Date().toISOString(),
     }, { merge: true });
     return true;
   } catch (e) { console.error("Erro ao enviar resultado:", e); return false; }
@@ -510,15 +510,20 @@ async function telaSenha(senhaEsperada, aoAcertar, aoCancelar) {
 
 
 function abrirProfessor() {
-  if (window.telaProfessor) { window.telaProfessor(); return; }
-  const s = document.createElement("script");
-  s.src = "professor.js?v=" + Date.now();
-  s.onload = () => window.telaProfessor();
-  s.onerror = async () => {
+  const erroPainel = async (msg) => {
     const corpo = cabecalho("Professor");
-    await digitarParagrafo(corpo, "Não consegui carregar o painel (professor.js).", "erro-texto");
+    await digitarParagrafo(corpo, msg, "erro-texto");
     corpo.appendChild(criarBotao("Voltar", telaLogin));
   };
+  const iniciar = () => {
+    if (typeof window.telaProfessor !== "function") { erroPainel("O professor.js carregou, mas está incompleto ou desatualizado. Reenvie o arquivo professor.js ao GitHub."); return; }
+    try { window.telaProfessor(); } catch (e) { erroPainel("O painel deu erro ao iniciar: " + e.message); }
+  };
+  if (window.telaProfessor) { iniciar(); return; }
+  const s = document.createElement("script");
+  s.src = "professor.js?v=" + Date.now();
+  s.onload = iniciar;
+  s.onerror = () => erroPainel("Não consegui carregar o painel (professor.js).");
   document.body.appendChild(s);
 }
 
@@ -606,6 +611,54 @@ let pararEscutaBloqueio = null;
 function idSessao(aluno) {
   return String(aluno).replace(/[^a-zA-Z0-9À-ÿ]/g, "_");
 }
+
+let QUIZ_ATIVO = false, SAIDAS_QUIZ = 0, EMPILHADOS = 0, FORA_DO_APP = false;
+
+function avisoTemporario(texto) {
+  let el = document.getElementById("aviso-temp");
+  if (!el) {
+    el = document.createElement("div");
+    el.id = "aviso-temp";
+    el.style.cssText = "position:fixed;left:12px;right:12px;bottom:18px;background:var(--fundo-caixa);border:1px solid var(--erro);color:var(--erro);padding:10px 12px;font-size:14px;z-index:50;text-align:center";
+    document.body.appendChild(el);
+  }
+  el.textContent = texto;
+  el.style.display = "block";
+  clearTimeout(el._t);
+  el._t = setTimeout(() => { el.style.display = "none"; }, 3000);
+}
+
+function registrarPresenca(fora) {
+  if (fora === FORA_DO_APP) return;
+  FORA_DO_APP = fora;
+  if (!ALUNO_REGISTRA || !ALUNO_ATUAL) return;
+  if (fora && QUIZ_ATIVO) SAIDAS_QUIZ++;
+  atualizarProgresso({ fora: fora, saidas: SAIDAS_QUIZ });
+}
+
+function iniciarQuizAtivo() {
+  QUIZ_ATIVO = true;
+  SAIDAS_QUIZ = 0;
+  try { history.pushState(null, "", location.href); EMPILHADOS++; } catch (e) {}
+}
+
+function encerrarQuizAtivo() {
+  QUIZ_ATIVO = false;
+  if (EMPILHADOS > 0) {
+    const n = EMPILHADOS;
+    EMPILHADOS = 0;
+    try { history.go(-n); } catch (e) {}
+  }
+}
+
+document.addEventListener("visibilitychange", () => registrarPresenca(document.visibilityState === "hidden"));
+window.addEventListener("pagehide", () => registrarPresenca(true));
+window.addEventListener("pageshow", () => registrarPresenca(false));
+window.addEventListener("popstate", () => {
+  if (!QUIZ_ATIVO) return;
+  try { history.pushState(null, "", location.href); EMPILHADOS++; } catch (e) {}
+  avisoTemporario("Quiz em andamento: use os botões do jogo.");
+});
 
 function atualizarProgresso(campos) {
   if (!ALUNO_REGISTRA || !ALUNO_ATUAL || !window.firebasePronto) return;
@@ -929,7 +982,8 @@ async function telaQuiz(arquivo) {
     corpo.appendChild(criarBotao("Voltar", telaCategorias));
     return;
   }
-  atualizarProgresso({ quizAtual: nomeQuiz, acao: "lendo", pontos: 0, acertos: 0, total: total, modo: cfg.modo });
+  iniciarQuizAtivo();
+  atualizarProgresso({ quizAtual: nomeQuiz, acao: "lendo", pontos: 0, acertos: 0, total: total, modo: cfg.modo, fora: false, saidas: 0 });
 
   while (fila.length > 0) {
     const questao = fila.shift();
@@ -1000,7 +1054,7 @@ async function telaQuiz(arquivo) {
     pontos = pontos + pontuarQuestao(cfg, total, resultado);
     if (resultado === "acertou") acertos += 1;
     atualizarProgresso({ acao: resultado, pontos: pontos, acertos: acertos });
-    gravarTentativa(nomeQuiz, { respostas: respostasLista.slice(), acertos: acertos, nota: Math.round(pontos * 100) / 100, data: new Date().toISOString() });
+    gravarTentativa(nomeQuiz, { respostas: respostasLista.slice(), acertos: acertos, nota: Math.round(pontos * 100) / 100, saidas: SAIDAS_QUIZ, data: new Date().toISOString() });
 
     const feedback = document.createElement("p");
     if (resultado === "acertou") {
@@ -1036,6 +1090,7 @@ async function telaQuiz(arquivo) {
   }
 
   atualizarProgresso({ acao: "terminou", pontos: Math.round(pontos * 100) / 100, acertos: acertos });
+  encerrarQuizAtivo();
   pontos = Math.round(pontos * 100) / 100;
   const envioOk = await enviarResultado(nomeQuiz, gabaritoLista, respostasLista, acertos, pontos, cfg, atingiuMeta);
   await telaResultado(pontos, acertos, total, erros, envioOk, cfg, atingiuMeta);
