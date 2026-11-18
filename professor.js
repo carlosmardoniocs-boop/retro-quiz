@@ -8,7 +8,7 @@ window.telaProfessor = function () {
   corpo.appendChild(criarBotao("Sair do painel", telaLogin));
   const versao = document.createElement("p");
   versao.className = "rodape-dica";
-  versao.textContent = "painel v6 (etapas 1 a 6)";
+  versao.textContent = "painel v7 (etapas 1 a 7)";
   corpo.appendChild(versao);
 };
 
@@ -95,16 +95,21 @@ let PROF_FS_URL = "https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.
 let profParar = null;
 
 function profEstadoAluno(s, agora) {
-  if (!s) return { quiz: "—", acao: "offline", pontos: "—", cor: "var(--linha)" };
+  const OFF = "var(--linha)", AMBAR = "#ffb000", ERRO = "var(--erro)", ON = "var(--destaque)";
+  if (!s) return { quiz: "—", acao: "offline", codigo: "offline", pontos: "—", cor: OFF, corQuiz: OFF, on: false };
   const quiz = s.quizAtual || "—";
   const pontos = s.pontos !== undefined ? fmt(s.pontos) : "—";
-  if (s.bloqueado) return { quiz, acao: "bloqueado", pontos, cor: "var(--erro)" };
-  const parado = !s.ativo || !s.ultimoPing || (agora - new Date(s.ultimoPing).getTime()) > 60000;
-  if (parado) return { quiz, acao: "offline", pontos, cor: "var(--linha)" };
-  if (!s.acao) return { quiz: "—", acao: "no menu", pontos: "—", cor: "var(--texto)" };
-  const cores = { lendo: "var(--texto)", acertou: "var(--destaque)", errou: "var(--erro)", pulou: "#ffb000", tempo: "#ffb000", terminou: "var(--destaque)" };
+  const sufixo = s.saidas ? " ⚠" + s.saidas : "";
+  const est = (acao, codigo, cor, corQuiz, on) => ({ quiz, acao: acao + sufixo, codigo, pontos, cor, corQuiz, on });
+  if (s.bloqueado) return { quiz, acao: "bloqueado", codigo: "bloqueado", pontos, cor: ERRO, corQuiz: ERRO, on: false };
+  if (!s.ativo) return est("offline", "offline", OFF, OFF, false);
+  if (s.fora) return est("fora do app", "fora", AMBAR, AMBAR, false);
+  const parado = !s.ultimoPing || (agora - new Date(s.ultimoPing).getTime()) > 60000;
+  if (parado) return est("offline", "offline", OFF, OFF, false);
+  if (!s.acao) return { quiz: "—", acao: "no menu", codigo: "menu", pontos: "—", cor: "var(--texto)", corQuiz: ON, on: true };
+  const cores = { lendo: "var(--texto)", acertou: ON, errou: ERRO, pulou: AMBAR, tempo: AMBAR, terminou: ON };
   const nomes = { tempo: "tempo esgotado" };
-  return { quiz, acao: nomes[s.acao] || s.acao, pontos, cor: cores[s.acao] || "var(--texto)" };
+  return est(nomes[s.acao] || s.acao, s.acao, cores[s.acao] || "var(--texto)", ON, true);
 }
 
 function profInjetarEstilo() {
@@ -187,11 +192,13 @@ async function profAcompanhar(turma) {
     for (const l of linhas) {
       const s = cache[l.id];
       const e = profEstadoAluno(s, agora);
-      if (e.acao !== "offline" && e.acao !== "bloqueado") online++;
-      if (e.acao === "terminou") terminaram++;
+      if (e.on) online++;
+      if (e.codigo === "terminou") terminaram++;
       l.cel[1].textContent = e.quiz;
       l.cel[2].textContent = e.acao;
       l.cel[3].textContent = e.pontos;
+      l.cel[0].style.color = e.corQuiz;
+      l.cel[1].style.color = e.corQuiz;
       l.cel[2].style.color = e.cor;
       l.cel[3].style.color = e.cor;
       l.btnBloq.textContent = (s && s.bloqueado) ? "Liberar" : "Bloquear";
