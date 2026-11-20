@@ -44,7 +44,9 @@
     text-transform: uppercase;
   }
   .corpo { padding: 14px 4px 30px; line-height: 1.6; font-size: 15px; }
-  .corpo p { margin: 0 0 14px; }
+  .corpo p { margin: 0 0 14px; white-space: pre-line; }
+  .opcao { white-space: pre-line; }
+  .arte { white-space: pre; overflow: hidden; line-height: 1.15; margin: 0 0 14px; color: var(--destaque); font-family: 'Courier New', 'IBM Plex Mono', monospace; }
   .destaque-texto { color: var(--destaque); }
   .erro-texto { color: var(--erro); }
   .opcao {
@@ -312,7 +314,48 @@ async function digitar(container, texto, classe) {
 async function digitarParagrafo(container, texto, classe) {
   const p = document.createElement("p");
   container.appendChild(p);
-  await digitar(p, texto, classe);
+  await digitar(p, String(texto).replace(/\s+$/, ""), classe);
+}
+
+async function desenharArte(corpo, linhas) {
+  linhas = linhas.map(l => l.replace(/\s+$/, ""));
+  while (linhas.length && linhas[linhas.length - 1] === "") linhas.pop();
+  if (!linhas.length) return;
+  const pre = document.createElement("pre");
+  pre.className = "arte";
+  corpo.appendChild(pre);
+  const maxLen = Math.max(1, ...linhas.map(l => l.length));
+  const largura = corpo.clientWidth || 320;
+  pre.style.fontSize = Math.max(4, Math.min(15, Math.floor(largura / (maxLen * 0.6) * 10) / 10)) + "px";
+  if (CONFIG.velocidade === 0 || PULAR_TELA) { pre.textContent = linhas.join("\n"); return; }
+  for (let k = 0; k < linhas.length; k++) {
+    if (PULAR_TELA) { pre.textContent = linhas.join("\n"); return; }
+    pre.textContent = linhas.slice(0, k + 1).join("\n");
+    await pausar(35);
+  }
+}
+
+// Lê um texto de tela (.txt): linhas seguidas viram um parágrafo (versos mantêm a quebra),
+// linha em branco separa parágrafos e o trecho entre [arte] e [/arte] é desenhado sem alterar espaços.
+async function mostrarTextoTela(corpo, texto) {
+  const linhas = texto.split(/\r\n|\r|\n/);
+  let par = [];
+  const soltar = async () => { if (par.length) { const t = par.join("\n"); par = []; await digitarParagrafo(corpo, t); } };
+  for (let i = 0; i < linhas.length; i++) {
+    const marca = linhas[i].trim().toLowerCase();
+    if (marca === "[arte]") {
+      await soltar();
+      const bloco = [];
+      i++;
+      while (i < linhas.length && linhas[i].trim().toLowerCase() !== "[/arte]") { bloco.push(linhas[i]); i++; }
+      await desenharArte(corpo, bloco);
+    } else if (marca === "") {
+      await soltar();
+    } else {
+      par.push(linhas[i].trim());
+    }
+  }
+  await soltar();
 }
 
 function linhaOrnamento(caractere) {
@@ -778,10 +821,7 @@ function prosseguirLoginConfirmado(turma, aluno) {
 async function telaIntro() {
   const corpo = cabecalho("Quiz Literário");
   try {
-    const texto = await buscarTexto("telas/intro.txt");
-    for (const linha of texto.split(/\r\n|\r|\n/)) {
-      if (linha.trim() !== "") await digitarParagrafo(corpo, linha);
-    }
+    await mostrarTextoTela(corpo, await buscarTexto("telas/intro.txt"));
   } catch (e) {
     await digitarParagrafo(corpo, "Pressione para começar.");
   }
@@ -883,10 +923,7 @@ async function telaConfiguracoes() {
 async function telaCreditos() {
   const corpo = cabecalho("Créditos");
   try {
-    const texto = await buscarTexto("telas/creditos.txt");
-    for (const linha of texto.split(/\r\n|\r|\n/)) {
-      if (linha.trim() !== "") await digitarParagrafo(corpo, linha);
-    }
+    await mostrarTextoTela(corpo, await buscarTexto("telas/creditos.txt"));
   } catch (e) {
     await digitarParagrafo(corpo, "Sem créditos cadastrados.");
   }
