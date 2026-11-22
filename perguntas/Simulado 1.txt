@@ -1,6 +1,5 @@
 TEXTO:
 Pronominais
-
 Oswald de Andrade
 
 Dê-me um cigarro
@@ -14,9 +13,9 @@ Deixa disso camarada
 Me dá um cigarro.
 
 ITEM:
-No poema, o autor aponta qual é a instituição ou figura social que exige o uso da norma gramatical rígida logo no início do texto. Essa figura é:
+No poema, logo no início do texto, o autor aponta qual é a instituição ou figura social que exige o uso da norma gramatical rígida. Essa figura é:
 
-A) O "bom negro e o bom branco".
+A) O bom negro e o bom branco.
 B) O mulato sabido e o poeta.
 C) O professor e o aluno.
 D) A Nação Brasileira.
@@ -28,7 +27,6 @@ C
 
 TEXTO:
 Pronominais
-
 Oswald de Andrade
 
 Dê-me um cigarro
@@ -44,19 +42,18 @@ Me dá um cigarro.
 ITEM:
 No trecho "Deixa disso camarada", a expressão utilizada pelo autor sugere que o falante da língua popular está:
 
-A) Reclamando da dificuldade de aprender a gramática tradicional dos livros.
-B) Demonstrando rigidez e formalidade ao se dirigir a uma autoridade literária.
-C) Aceitando rigorosamente as regras acadêmicas ensinadas nas escolas de Portugal.
-D) Descontraindo a situação e rejeitando a formalidade excessiva com naturalidade.
+A) Aceitando rigorosamente as regras acadêmicas ensinadas nas escolas de Portugal.
+B) Descontraindo a situação e rejeitando a formalidade excessiva com naturalidade.
+C) Demonstrando rigidez e formalidade ao se dirigir a uma autoridade literária.
+D) Reclamando da dificuldade de aprender a gramática tradicional dos livros.
 
 RESPOSTA:
-D
+B
 
 ===
 
 TEXTO:
 Pronominais
-
 Oswald de Andrade
 
 Dê-me um cigarro
@@ -84,7 +81,6 @@ A
 
 TEXTO:
 Pronominais
-
 Oswald de Andrade
 
 Dê-me um cigarro
@@ -99,20 +95,19 @@ Me dá um cigarro.
 
 ITEM:
 O tema central abordado no poema de Oswald de Andrade é:
- 
+
 A) A importância de estudar as regras gramaticais na infância.
 B) A dificuldade de comunicação entre as diferentes raças na Nação Brasileira.
-C) A necessidade de os brasileiros aprenderem a escrever poemas sem regras fixas.
-D) O conflito entre a gramática normativa culta e a língua falada pelo povo brasileiro.
+C) O conflito entre a gramática normativa culta e a língua falada pelo povo brasileiro.
+D) A necessidade de os brasileiros aprenderem a escrever poemas sem regras fixas.
 
 RESPOSTA:
-D
+C
 
 ===
 
 TEXTO:
 Pronominais
-
 Oswald de Andrade
 
 Dê-me um cigarro
@@ -140,7 +135,6 @@ B
 
 TEXTO:
 Pronominais
-
 Oswald de Andrade
 
 Dê-me um cigarro
@@ -168,7 +162,6 @@ A
 
 TEXTO:
 Pronominais
-
 Oswald de Andrade
 
 Dê-me um cigarro
@@ -186,23 +179,22 @@ O efeito de humor e ironia presente no final do poema decorre principalmente de:
 
 A) Um pedido formal de desculpas à gramática tradicional por parte do poeta.
 B) Uma crítica severa aos cidadãos que não sabem ler nem escrever corretamente.
-C) A descrição detalhada de como se deve fumar um cigarro de acordo com os manuais de etiqueta.
-D) O contraste entre a exigência rígida da norma culta e a simplicidade informal do pedido cotidiano.
+C) O contraste entre a exigência rígida da norma culta e a simplicidade informal do pedido cotidiano.
+D) A descrição detalhada de como se deve fumar um cigarro de acordo com os manuais de etiqueta.
 
 RESPOSTA:
-D
+C
 
 ===
 
 TEXTO:
 Os Viajantes e o Urso
-
 Esopo
 
 Dois viajantes estão caminhando quando se depararam com um urso. Um deles ignorou o companheiro e fugiu o mais depressa que pôde, subindo ao topo de uma árvore. O outro, sem saber o que fazer, resolveu deitar no chão e fingir que estava morto.
 O urso chegou perto do seu corpo e, após cheirá-lo algumas vezes, acreditou que estava morto e se afastou. O viajante que estava em cima da árvore perguntou se o animal tinha dito alguma coisa.
 O que estava no chão respondeu: "Disse para eu ter cuidado com os amigos que deixam os outros para trás quando o perigo se aproxima".
-Moral: É nas horas de aperto que as amizades são colocadas á prova.
+Moral: É nas horas de aperto que as amizades são colocadas à prova.
 
 ITEM:
 De acordo com o texto, qual foi a atitude tomada pelo viajante que não conseguiu fugir quando o urso se aproximou?
@@ -219,35 +211,34 @@ B
 
 TEXTO:
 Os Viajantes e o Urso
-
 Esopo
 
 Dois viajantes estão caminhando quando se depararam com um urso. Um deles ignorou o companheiro e fugiu o mais depressa que pôde, subindo ao topo de uma árvore. O outro, sem saber o que fazer, resolveu deitar no chão e fingir que estava morto.
 O urso chegou perto do seu corpo e, após cheirá-lo algumas vezes, acreditou que estava morto e se afastou. O viajante que estava em cima da árvore perguntou se o animal tinha dito alguma coisa.
 O que estava no chão respondeu: "Disse para eu ter cuidado com os amigos que deixam os outros para trás quando o perigo se aproxima".
-Moral: É nas horas de aperto que as amizades são colocadas á prova.
+Moral: É nas horas de aperto que as amizades são colocadas à prova.
 
 ITEM:
 Ao responder ao colega que o urso lhe dera um conselho sobre falsos amigos, infere-se que o viajante que ficou no chão estava:
 
-A) Acreditando realmente que o urso sabia falar a língua dos humanos.
-B) Fazendo uma crítica indireta ao egoísmo e ao abandono do seu companheiro.
-C) Agradecendo ao amigo por ter subido na árvore para distrair o animal.
+A) Fazendo uma crítica indireta ao egoísmo e ao abandono do seu companheiro.
+B) Agradecendo ao amigo por ter subido na árvore para distrair o animal.
+C) Acreditando realmente que o urso sabia falar a língua dos humanos.
 D) Pedindo ajuda para levantar-se do chão após o susto.
 
 RESPOSTA:
-B
+A
 
 ===
+
 TEXTO:
 Os Viajantes e o Urso
-
 Esopo
 
 Dois viajantes estão caminhando quando se depararam com um urso. Um deles ignorou o companheiro e fugiu o mais depressa que pôde, subindo ao topo de uma árvore. O outro, sem saber o que fazer, resolveu deitar no chão e fingir que estava morto.
 O urso chegou perto do seu corpo e, após cheirá-lo algumas vezes, acreditou que estava morto e se afastou. O viajante que estava em cima da árvore perguntou se o animal tinha dito alguma coisa.
 O que estava no chão respondeu: "Disse para eu ter cuidado com os amigos que deixam os outros para trás quando o perigo se aproxima".
-Moral: É nas horas de aperto que as amizades são colocadas á prova.
+Moral: É nas horas de aperto que as amizades são colocadas à prova.
 
 ITEM:
 Na moral da fábula — "É nas horas de aperto que as amizades são colocadas à prova" —, a expressão destacada "horas de aperto" significa momentos de:
@@ -261,21 +252,21 @@ RESPOSTA:
 D
 
 ===
+
 TEXTO:
 Os Viajantes e o Urso
-
 Esopo
 
 Dois viajantes estão caminhando quando se depararam com um urso. Um deles ignorou o companheiro e fugiu o mais depressa que pôde, subindo ao topo de uma árvore. O outro, sem saber o que fazer, resolveu deitar no chão e fingir que estava morto.
 O urso chegou perto do seu corpo e, após cheirá-lo algumas vezes, acreditou que estava morto e se afastou. O viajante que estava em cima da árvore perguntou se o animal tinha dito alguma coisa.
 O que estava no chão respondeu: "Disse para eu ter cuidado com os amigos que deixam os outros para trás quando o perigo se aproxima".
-Moral: É nas horas de aperto que as amizades são colocadas á prova.
+Moral: É nas horas de aperto que as amizades são colocadas à prova.
 
 ITEM:
 O tema principal abordado na fábula de Esopo é:
 
-A) As técnicas de sobrevivência diante de animais selvagens na floresta.
-B) A importância de viajar acompanhado para dividir os custos da estrada.
+A) A importância de viajar acompanhado para dividir os custos da estrada.
+B) As técnicas de sobrevivência diante de animais selvagens na floresta.
 C) A lealdade e a verdadeira amizade testadas em momentos de perigo.
 D) A inteligência dos ursos ao identificar presas na natureza.
 
@@ -283,15 +274,15 @@ RESPOSTA:
 C
 
 ===
+
 TEXTO:
 Os Viajantes e o Urso
-
 Esopo
 
 Dois viajantes estão caminhando quando se depararam com um urso. Um deles ignorou o companheiro e fugiu o mais depressa que pôde, subindo ao topo de uma árvore. O outro, sem saber o que fazer, resolveu deitar no chão e fingir que estava morto.
 O urso chegou perto do seu corpo e, após cheirá-lo algumas vezes, acreditou que estava morto e se afastou. O viajante que estava em cima da árvore perguntou se o animal tinha dito alguma coisa.
 O que estava no chão respondeu: "Disse para eu ter cuidado com os amigos que deixam os outros para trás quando o perigo se aproxima".
-Moral: É nas horas de aperto que as amizades são colocadas á prova.
+Moral: É nas horas de aperto que as amizades são colocadas à prova.
 
 ITEM:
 O fato que dá origem ao conflito principal dessa narrativa (o conflito gerador) é:
@@ -305,18 +296,18 @@ RESPOSTA:
 A
 
 ===
+
 TEXTO:
 Os Viajantes e o Urso
-
 Esopo
 
 Dois viajantes estão caminhando quando se depararam com um urso. Um deles ignorou o companheiro e fugiu o mais depressa que pôde, subindo ao topo de uma árvore. O outro, sem saber o que fazer, resolveu deitar no chão e fingir que estava morto.
 O urso chegou perto do seu corpo e, após cheirá-lo algumas vezes, acreditou que estava morto e se afastou. O viajante que estava em cima da árvore perguntou se o animal tinha dito alguma coisa.
 O que estava no chão respondeu: "Disse para eu ter cuidado com os amigos que deixam os outros para trás quando o perigo se aproxima".
-Moral: É nas horas de aperto que as amizades são colocadas á prova.
+Moral: É nas horas de aperto que as amizades são colocadas à prova.
 
 ITEM:
-No trecho "O urso chegou perto do seu corpo e, após cheirá-lo algumas vezes, acreditou que estava morto", os termos destacados referem-se:
+No trecho "O urso chegou perto do seu corpo e, após cheirá-lo algumas vezes, acreditou que estava morto", os termos destacados "seu" e "-lo" referem-se:
 
 A) Ao viajante que subiu na árvore.
 B) Ao próprio urso.
@@ -327,15 +318,15 @@ RESPOSTA:
 C
 
 ===
+
 TEXTO:
 Os Viajantes e o Urso
-
 Esopo
 
 Dois viajantes estão caminhando quando se depararam com um urso. Um deles ignorou o companheiro e fugiu o mais depressa que pôde, subindo ao topo de uma árvore. O outro, sem saber o que fazer, resolveu deitar no chão e fingir que estava morto.
 O urso chegou perto do seu corpo e, após cheirá-lo algumas vezes, acreditou que estava morto e se afastou. O viajante que estava em cima da árvore perguntou se o animal tinha dito alguma coisa.
 O que estava no chão respondeu: "Disse para eu ter cuidado com os amigos que deixam os outros para trás quando o perigo se aproxima".
-Moral: É nas horas de aperto que as amizades são colocadas á prova.
+Moral: É nas horas de aperto que as amizades são colocadas à prova.
 
 ITEM:
 Há uma clara ironia na fala final do viajante que ficou no chão quando ele:
@@ -343,9 +334,1266 @@ Há uma clara ironia na fala final do viajante que ficou no chão quando ele:
 A) Diz que prefere viajar sozinho nas próximas aventuras.
 B) Confessa que sentiu muito medo enquanto o urso o cheirava.
 C) Pergunta ao companheiro se a vista lá de cima da árvore era bonita.
-D) Atribui ao urso um conselho moral que, na verdade, era uma indireta para o próprio amigo.
+D) Atribui ao urso um conselho moral como indireta para o próprio amigo.
 
 RESPOSTA:
 D
+
+===
+
+TEXTO:
+O atalho das telas e o risco de terceirizar o pensamento
+Texto elaborado especialmente para fins didáticos.
+
+A facilidade de obter respostas imediatas em aplicativos e buscadores transformou a rotina escolar. Em poucos segundos, qualquer estudante resume livros, resolve problemas complexos ou redige textos inteiros. Embora a tecnologia amplie o acesso à informação, o uso acrítico dessas ferramentas como muleta cognitiva ameaça a autonomia intelectual da juventude.
+Pensar exige atrito. Quando um aluno delega integralmente a leitura, a seleção de ideias e a escrita a sistemas automatizados, ele pula justamente as etapas que constroem repertório, senso crítico e voz própria. A pressa por um produto pronto substitui o processo de investigação, dúvida e revisão — habilidades indispensáveis não apenas nas provas e no ingresso ao ensino superior, mas na tomada de decisões cidadãs e profissionais.
+A escola e a família não devem proibir o avanço digital, mas ensinar a usá-lo com critério. Ferramentas digitais funcionam melhor como apoio de consulta e verificação do que como substitutas do esforço mental. Se formarmos gerações habituadas apenas a copiar soluções prontas, perderemos a capacidade de formular boas perguntas e enfrentar problemas inéditos.
+
+ITEM:
+De acordo com o último parágrafo do texto, a maneira mais adequada de utilizar as ferramentas digitais na educação é como:
+
+A) Substitutas do esforço mental para acelerar a entrega de tarefas.
+B) Instrumentos de proibição do avanço tecnológico dentro das escolas.
+C) Apoio de consulta e verificação do conhecimento produzido.
+D) Garantia de aprovação imediata nas provas e no ensino superior.
+
+RESPOSTA:
+C
+
+===
+
+TEXTO:
+O atalho das telas e o risco de terceirizar o pensamento
+Texto elaborado especialmente para fins didáticos.
+
+A facilidade de obter respostas imediatas em aplicativos e buscadores transformou a rotina escolar. Em poucos segundos, qualquer estudante resume livros, resolve problemas complexos ou redige textos inteiros. Embora a tecnologia amplie o acesso à informação, o uso acrítico dessas ferramentas como muleta cognitiva ameaça a autonomia intelectual da juventude.
+Pensar exige atrito. Quando um aluno delega integralmente a leitura, a seleção de ideias e a escrita a sistemas automatizados, ele pula justamente as etapas que constroem repertório, senso crítico e voz própria. A pressa por um produto pronto substitui o processo de investigação, dúvida e revisão — habilidades indispensáveis não apenas nas provas e no ingresso ao ensino superior, mas na tomada de decisões cidadãs e profissionais.
+A escola e a família não devem proibir o avanço digital, mas ensinar a usá-lo com critério. Ferramentas digitais funcionam melhor como apoio de consulta e verificação do que como substitutas do esforço mental. Se formarmos gerações habituadas apenas a copiar soluções prontas, perderemos a capacidade de formular boas perguntas e enfrentar problemas inéditos.
+
+ITEM:
+Pela leitura global do artigo, infere-se que o principal posicionamento (tese) defendido no texto é que:
+
+A) A tecnologia deve ser banida das escolas para recuperar o hábito da leitura impressa.
+B) O uso automático de ferramentas digitais sem senso crítico enfraquece a autonomia intelectual dos jovens.
+C) Os aplicativos de busca tornaram o trabalho dos professores totalmente obsoleto.
+D) A escrita digital impede que os estudantes ingressem no ensino superior.
+
+RESPOSTA:
+B
+
+===
+
+TEXTO:
+O atalho das telas e o risco de terceirizar o pensamento
+Texto elaborado especialmente para fins didáticos.
+
+A facilidade de obter respostas imediatas em aplicativos e buscadores transformou a rotina escolar. Em poucos segundos, qualquer estudante resume livros, resolve problemas complexos ou redige textos inteiros. Embora a tecnologia amplie o acesso à informação, o uso acrítico dessas ferramentas como muleta cognitiva ameaça a autonomia intelectual da juventude.
+Pensar exige atrito. Quando um aluno delega integralmente a leitura, a seleção de ideias e a escrita a sistemas automatizados, ele pula justamente as etapas que constroem repertório, senso crítico e voz própria. A pressa por um produto pronto substitui o processo de investigação, dúvida e revisão — habilidades indispensáveis não apenas nas provas e no ingresso ao ensino superior, mas na tomada de decisões cidadãs e profissionais.
+A escola e a família não devem proibir o avanço digital, mas ensinar a usá-lo com critério. Ferramentas digitais funcionam melhor como apoio de consulta e verificação do que como substitutas do esforço mental. Se formarmos gerações habituadas apenas a copiar soluções prontas, perderemos a capacidade de formular boas perguntas e enfrentar problemas inéditos.
+
+ITEM:
+No segundo parágrafo, a expressão "Pensar exige atrito" foi utilizada com o sentido figurado de que desenvolver o raciocínio requer:
+
+A) Rejeição total a qualquer tipo de ferramenta tecnológica moderna.
+B) Conflitos constantes e discussões acaloradas entre alunos e professores.
+C) Esforço mental e o enfrentamento de etapas difíceis de investigação e dúvida.
+D) Desgaste físico causado pelo excesso de tempo diante das telas de computadores.
+
+RESPOSTA:
+C
+
+===
+
+TEXTO:
+O atalho das telas e o risco de terceirizar o pensamento
+Texto elaborado especialmente para fins didáticos.
+
+A facilidade de obter respostas imediatas em aplicativos e buscadores transformou a rotina escolar. Em poucos segundos, qualquer estudante resume livros, resolve problemas complexos ou redige textos inteiros. Embora a tecnologia amplie o acesso à informação, o uso acrítico dessas ferramentas como muleta cognitiva ameaça a autonomia intelectual da juventude.
+Pensar exige atrito. Quando um aluno delega integralmente a leitura, a seleção de ideias e a escrita a sistemas automatizados, ele pula justamente as etapas que constroem repertório, senso crítico e voz própria. A pressa por um produto pronto substitui o processo de investigação, dúvida e revisão — habilidades indispensáveis não apenas nas provas e no ingresso ao ensino superior, mas na tomada de decisões cidadãs e profissionais.
+A escola e a família não devem proibir o avanço digital, mas ensinar a usá-lo com critério. Ferramentas digitais funcionam melhor como apoio de consulta e verificação do que como substitutas do esforço mental. Se formarmos gerações habituadas apenas a copiar soluções prontas, perderemos a capacidade de formular boas perguntas e enfrentar problemas inéditos.
+
+ITEM:
+O assunto principal tratado nesse artigo de opinião é:
+
+A) A velocidade dos novos aplicativos de resumo automático de livros.
+B) As regras necessárias para elaborar uma boa redação no ensino superior.
+C) A responsabilidade exclusiva das famílias no controle do tempo de tela dos filhos.
+D) Os impactos do uso acrítico da tecnologia no desenvolvimento intelectual dos estudantes.
+
+RESPOSTA:
+D
+
+===
+
+TEXTO:
+O atalho das telas e o risco de terceirizar o pensamento
+Texto elaborado especialmente para fins didáticos.
+
+A facilidade de obter respostas imediatas em aplicativos e buscadores transformou a rotina escolar. Em poucos segundos, qualquer estudante resume livros, resolve problemas complexos ou redige textos inteiros. Embora a tecnologia amplie o acesso à informação, o uso acrítico dessas ferramentas como muleta cognitiva ameaça a autonomia intelectual da juventude.
+Pensar exige atrito. Quando um aluno delega integralmente a leitura, a seleção de ideias e a escrita a sistemas automatizados, ele pula justamente as etapas que constroem repertório, senso crítico e voz própria. A pressa por um produto pronto substitui o processo de investigação, dúvida e revisão — habilidades indispensáveis não apenas nas provas e no ingresso ao ensino superior, mas na tomada de decisões cidadãs e profissionais.
+A escola e a família não devem proibir o avanço digital, mas ensinar a usá-lo com critério. Ferramentas digitais funcionam melhor como apoio de consulta e verificação do que como substitutas do esforço mental. Se formarmos gerações habituadas apenas a copiar soluções prontas, perderemos a capacidade de formular boas perguntas e enfrentar problemas inéditos.
+
+ITEM:
+No trecho "A escola e a família não devem proibir o avanço digital, mas ensinar a usá-lo com critério" (3º parágrafo), o pronome "-lo" destacado retoma a expressão:
+
+A) "escola e a família".
+B) "avanço digital".
+C) "esforço mental".
+D) "produto pronto".
+
+RESPOSTA:
+B
+
+===
+
+TEXTO:
+O atalho das telas e o risco de terceirizar o pensamento
+Texto elaborado especialmente para fins didáticos.
+
+A facilidade de obter respostas imediatas em aplicativos e buscadores transformou a rotina escolar. Em poucos segundos, qualquer estudante resume livros, resolve problemas complexos ou redige textos inteiros. Embora a tecnologia amplie o acesso à informação, o uso acrítico dessas ferramentas como muleta cognitiva ameaça a autonomia intelectual da juventude.
+Pensar exige atrito. Quando um aluno delega integralmente a leitura, a seleção de ideias e a escrita a sistemas automatizados, ele pula justamente as etapas que constroem repertório, senso crítico e voz própria. A pressa por um produto pronto substitui o processo de investigação, dúvida e revisão — habilidades indispensáveis não apenas nas provas e no ingresso ao ensino superior, mas na tomada de decisões cidadãs e profissionais.
+A escola e a família não devem proibir o avanço digital, mas ensinar a usá-lo com critério. Ferramentas digitais funcionam melhor como apoio de consulta e verificação do que como substitutas do esforço mental. Se formarmos gerações habituadas apenas a copiar soluções prontas, perderemos a capacidade de formular boas perguntas e enfrentar problemas inéditos.
+
+ITEM:
+No período "Se formarmos gerações habituadas apenas a copiar soluções prontas, perderemos a capacidade de formular boas perguntas e enfrentar problemas inéditos" (3º parágrafo), a palavra destacada "Se" introduz uma ideia de:
+
+A) Condição.
+B) Oposição.
+C) Finalidade.
+D) Explicação.
+
+RESPOSTA:
+A
+
+===
+
+TEXTO:
+Após 8 anos tentando ser mãe, mulher decide adotar e descobre gravidez na mesma semana
+Rinaldo de Oliveira
+19/11/2026 às 08:45
+
+Aconteceu de novo! Uma mulher decide adotar e descobre gravidez na mesma semana, depois de oito anos tentando ser mãe! Deimy Engel, de Presidente Getúlio, Santa Catarina, passou por tratamentos e duas perdas gestacionais antes de receber a notícia tão esperada. A surpresa veio apenas dois dias depois de procurar a Justiça com o marido, Samuel Travaglia, para buscar informações sobre adoção.
+Os dois nunca desistiram do sonho de formar uma família. Deimy enfrentou dificuldades para engravidar, descobriu problemas de saúde que poderiam comprometer a gestação e passou por momentos dolorosos. Mas o desejo de ser mãe continuou vivo e o casal decidiu abrir o coração para a adoção.
+Foi então que veio uma surpresa daquelas que parecem roteiro de filme. Na terça-feira, Deimy e Samuel foram ao fórum buscar informações sobre como adotar uma criança. Na quinta-feira da mesma semana, ela resolveu fazer um teste de gravidez. O resultado foi positivo! (...)
+
+ITEM:
+De acordo com o texto, quanto tempo após procurar a Justiça para saber sobre adoção Deimy Engel descobriu que estava grávida?
+
+A) Oito anos depois.
+B) Na semana seguinte.
+C) Apenas dois dias depois.
+D) No mesmo dia em que foi ao fórum.
+
+RESPOSTA:
+C
+
+===
+
+TEXTO:
+Após 8 anos tentando ser mãe, mulher decide adotar e descobre gravidez na mesma semana
+Rinaldo de Oliveira
+19/11/2026 às 08:45
+
+Aconteceu de novo! Uma mulher decide adotar e descobre gravidez na mesma semana, depois de oito anos tentando ser mãe! Deimy Engel, de Presidente Getúlio, Santa Catarina, passou por tratamentos e duas perdas gestacionais antes de receber a notícia tão esperada. A surpresa veio apenas dois dias depois de procurar a Justiça com o marido, Samuel Travaglia, para buscar informações sobre adoção.
+Os dois nunca desistiram do sonho de formar uma família. Deimy enfrentou dificuldades para engravidar, descobriu problemas de saúde que poderiam comprometer a gestação e passou por momentos dolorosos. Mas o desejo de ser mãe continuou vivo e o casal decidiu abrir o coração para a adoção.
+Foi então que veio uma surpresa daquelas que parecem roteiro de filme. Na terça-feira, Deimy e Samuel foram ao fórum buscar informações sobre como adotar uma criança. Na quinta-feira da mesma semana, ela resolveu fazer um teste de gravidez. O resultado foi positivo! (...)
+
+ITEM:
+Ao afirmar logo na abertura do texto que "Aconteceu de novo!", o jornalista permite ao leitor inferir que:
+
+A) O casal desistiu do processo de adoção pela segunda vez consecutiva.
+B) A notícia é uma republicação de uma matéria antiga da mesma família.
+C) Deimy Engel já havia passado pela mesma situação de adotar e engravidar anteriormente.
+D) Casos semelhantes de mulheres que engravidam logo após decidirem adotar já ocorreram e foram noticiados antes.
+
+RESPOSTA:
+D
+
+===
+
+TEXTO:
+Após 8 anos tentando ser mãe, mulher decide adotar e descobre gravidez na mesma semana
+Rinaldo de Oliveira
+19/11/2026 às 08:45
+
+Aconteceu de novo! Uma mulher decide adotar e descobre gravidez na mesma semana, depois de oito anos tentando ser mãe! Deimy Engel, de Presidente Getúlio, Santa Catarina, passou por tratamentos e duas perdas gestacionais antes de receber a notícia tão esperada. A surpresa veio apenas dois dias depois de procurar a Justiça com o marido, Samuel Travaglia, para buscar informações sobre adoção.
+Os dois nunca desistiram do sonho de formar uma família. Deimy enfrentou dificuldades para engravidar, descobriu problemas de saúde que poderiam comprometer a gestação e passou por momentos dolorosos. Mas o desejo de ser mãe continuou vivo e o casal decidiu abrir o coração para a adoção.
+Foi então que veio uma surpresa daquelas que parecem roteiro de filme. Na terça-feira, Deimy e Samuel foram ao fórum buscar informações sobre como adotar uma criança. Na quinta-feira da mesma semana, ela resolveu fazer um teste de gravidez. O resultado foi positivo! (...)
+
+ITEM:
+No segundo parágrafo, a expressão "abrir o coração" significa que o casal decidiu:
+
+A) Aceitar com afeto e disposição a possibilidade de adotar uma criança.
+B) Contar publicamente todos os problemas de saúde que enfrentaram.
+C) Realizar uma cirurgia cardíaca antes de tentar uma nova gestação.
+D) Desistir definitivamente do sonho de construir uma família.
+
+RESPOSTA:
+A
+
+===
+
+TEXTO:
+Após 8 anos tentando ser mãe, mulher decide adotar e descobre gravidez na mesma semana
+Rinaldo de Oliveira
+19/11/2026 às 08:45
+
+Aconteceu de novo! Uma mulher decide adotar e descobre gravidez na mesma semana, depois de oito anos tentando ser mãe! Deimy Engel, de Presidente Getúlio, Santa Catarina, passou por tratamentos e duas perdas gestacionais antes de receber a notícia tão esperada. A surpresa veio apenas dois dias depois de procurar a Justiça com o marido, Samuel Travaglia, para buscar informações sobre adoção.
+Os dois nunca desistiram do sonho de formar uma família. Deimy enfrentou dificuldades para engravidar, descobriu problemas de saúde que poderiam comprometer a gestação e passou por momentos dolorosos. Mas o desejo de ser mãe continuou vivo e o casal decidiu abrir o coração para a adoção.
+Foi então que veio uma surpresa daquelas que parecem roteiro de filme. Na terça-feira, Deimy e Samuel foram ao fórum buscar informações sobre como adotar uma criança. Na quinta-feira da mesma semana, ela resolveu fazer um teste de gravidez. O resultado foi positivo! (...)
+
+ITEM:
+O assunto principal dessa reportagem é:
+
+A) As etapas burocráticas exigidas pela Justiça para adotar uma criança em Santa Catarina.
+B) Os avanços dos tratamentos médicos contra a infertilidade feminina no Brasil.
+C) A história de uma mulher que descobriu a gravidez na mesma semana em que iniciou a busca pela adoção.
+D) As dificuldades emocionais enfrentadas por casais que sofrem perdas gestacionais.
+
+RESPOSTA:
+C
+
+===
+
+TEXTO:
+Após 8 anos tentando ser mãe, mulher decide adotar e descobre gravidez na mesma semana
+Rinaldo de Oliveira
+19/11/2026 às 08:45
+
+Aconteceu de novo! Uma mulher decide adotar e descobre gravidez na mesma semana, depois de oito anos tentando ser mãe! Deimy Engel, de Presidente Getúlio, Santa Catarina, passou por tratamentos e duas perdas gestacionais antes de receber a notícia tão esperada. A surpresa veio apenas dois dias depois de procurar a Justiça com o marido, Samuel Travaglia, para buscar informações sobre adoção.
+Os dois nunca desistiram do sonho de formar uma família. Deimy enfrentou dificuldades para engravidar, descobriu problemas de saúde que poderiam comprometer a gestação e passou por momentos dolorosos. Mas o desejo de ser mãe continuou vivo e o casal decidiu abrir o coração para a adoção.
+Foi então que veio uma surpresa daquelas que parecem roteiro de filme. Na terça-feira, Deimy e Samuel foram ao fórum buscar informações sobre como adotar uma criança. Na quinta-feira da mesma semana, ela resolveu fazer um teste de gravidez. O resultado foi positivo! (...)
+
+ITEM:
+No trecho "Os dois nunca desistiram do sonho de formar uma família" (2º parágrafo), a palavra destacada "dois" retoma:
+
+A) Os tratamentos realizados por Deimy.
+B) Deimy Engel e o marido, Samuel Travaglia.
+C) Os dias da semana em que foram ao fórum.
+D) Os problemas de saúde enfrentados na gestação.
+
+RESPOSTA:
+B
+
+===
+
+TEXTO:
+Após 8 anos tentando ser mãe, mulher decide adotar e descobre gravidez na mesma semana
+Rinaldo de Oliveira
+19/11/2026 às 08:45
+
+Aconteceu de novo! Uma mulher decide adotar e descobre gravidez na mesma semana, depois de oito anos tentando ser mãe! Deimy Engel, de Presidente Getúlio, Santa Catarina, passou por tratamentos e duas perdas gestacionais antes de receber a notícia tão esperada. A surpresa veio apenas dois dias depois de procurar a Justiça com o marido, Samuel Travaglia, para buscar informações sobre adoção.
+Os dois nunca desistiram do sonho de formar uma família. Deimy enfrentou dificuldades para engravidar, descobriu problemas de saúde que poderiam comprometer a gestação e passou por momentos dolorosos. Mas o desejo de ser mãe continuou vivo e o casal decidiu abrir o coração para a adoção.
+Foi então que veio uma surpresa daquelas que parecem roteiro de filme. Na terça-feira, Deimy e Samuel foram ao fórum buscar informações sobre como adotar uma criança. Na quinta-feira da mesma semana, ela resolveu fazer um teste de gravidez. O resultado foi positivo! (...)
+
+ITEM:
+No período "Deimy enfrentou dificuldades para engravidar, descobriu problemas de saúde que poderiam comprometer a gestação e passou por momentos dolorosos. Mas o desejo de ser mãe continuou vivo..." (2º parágrafo), a conjunção destacada "Mas" estabelece uma relação de:
+
+A) Explicação.
+B) Oposição.
+C) Consequência.
+D) Finalidade.
+
+RESPOSTA:
+B
+
+===
+
+TEXTO:
+No capricho
+Ronaldo Boldrim
+
+O Adãozinho, meu cumpade, enquanto esperava pelo delegado, olhava para um quadro, a pintura de uma senhora. Ao entrar a autoridade e percebendo que o cabôco admirava tal figura, perguntou: "Que tal? Gosta desse quadro?" E o Adãozinho, com toda a sinceridade que Deus dá ao cabôco da roça: "Mas pelo amor de Deus, hein, dotô! Que muié feia! Parece fiote de cruis-credo, parente do deus-me-livre, mais horríver que briga de cego no escuro." Ao que o delegado não teve como deixar de confessar, um pouco secamente: "É a minha mãe." E o cabôco, em cima da bucha, não perde a linha: "Mais dotô, inté que é uma feiura caprichada."
+
+ITEM:
+De acordo com o texto, quem era a mulher retratada no quadro que Adãozinho observava?
+
+A) A mãe do delegado.
+B) Uma vizinha da roça.
+C) A esposa do cumpade.
+D) Uma parente de Adãozinho.
+
+RESPOSTA:
+A
+
+===
+
+TEXTO:
+No capricho
+Ronaldo Boldrim
+
+O Adãozinho, meu cumpade, enquanto esperava pelo delegado, olhava para um quadro, a pintura de uma senhora. Ao entrar a autoridade e percebendo que o cabôco admirava tal figura, perguntou: "Que tal? Gosta desse quadro?" E o Adãozinho, com toda a sinceridade que Deus dá ao cabôco da roça: "Mas pelo amor de Deus, hein, dotô! Que muié feia! Parece fiote de cruis-credo, parente do deus-me-livre, mais horríver que briga de cego no escuro." Ao que o delegado não teve como deixar de confessar, um pouco secamente: "É a minha mãe." E o cabôco, em cima da bucha, não perde a linha: "Mais dotô, inté que é uma feiura caprichada."
+
+ITEM:
+Ao responder "um pouco secamente" que a mulher do quadro era sua mãe, infere-se que o delegado ficou:
+
+A) Divertido com a sinceridade espontânea do visitante.
+B) Admirado com o conhecimento de arte demonstrado por Adãozinho.
+C) Constrangido e ofendido com os comentários sobre a aparência da mãe.
+D) Aliviado por finalmente saber a opinião sincera de alguém sobre a pintura.
+
+RESPOSTA:
+C
+
+===
+
+TEXTO:
+No capricho
+Ronaldo Boldrim
+
+O Adãozinho, meu cumpade, enquanto esperava pelo delegado, olhava para um quadro, a pintura de uma senhora. Ao entrar a autoridade e percebendo que o cabôco admirava tal figura, perguntou: "Que tal? Gosta desse quadro?" E o Adãozinho, com toda a sinceridade que Deus dá ao cabôco da roça: "Mas pelo amor de Deus, hein, dotô! Que muié feia! Parece fiote de cruis-credo, parente do deus-me-livre, mais horríver que briga de cego no escuro." Ao que o delegado não teve como deixar de confessar, um pouco secamente: "É a minha mãe." E o cabôco, em cima da bucha, não perde a linha: "Mais dotô, inté que é uma feiura caprichada."
+
+ITEM:
+No trecho "E o cabôco, em cima da bucha, não perde a linha", a expressão destacada "em cima da bucha" significa que Adãozinho respondeu:
+
+A) De maneira imediata, sem hesitar.
+B) Depois de pensar por vários minutos.
+C) Falando bem baixinho para ninguém ouvir.
+D) Pedindo desculpas com muita vergonha.
+
+RESPOSTA:
+A
+
+===
+
+TEXTO:
+No capricho
+Ronaldo Boldrim
+
+O Adãozinho, meu cumpade, enquanto esperava pelo delegado, olhava para um quadro, a pintura de uma senhora. Ao entrar a autoridade e percebendo que o cabôco admirava tal figura, perguntou: "Que tal? Gosta desse quadro?" E o Adãozinho, com toda a sinceridade que Deus dá ao cabôco da roça: "Mas pelo amor de Deus, hein, dotô! Que muié feia! Parece fiote de cruis-credo, parente do deus-me-livre, mais horríver que briga de cego no escuro." Ao que o delegado não teve como deixar de confessar, um pouco secamente: "É a minha mãe." E o cabôco, em cima da bucha, não perde a linha: "Mais dotô, inté que é uma feiura caprichada."
+
+ITEM:
+O assunto principal dessa anedota é:
+
+A) A importância das obras de arte na decoração de delegacias.
+B) A dificuldade de comunicação entre pessoas da cidade e da roça.
+C) A tentativa engraçada de um homem contornar uma gafe cometida.
+D) A história de vida de uma senhora que posou para um retrato famoso.
+
+RESPOSTA:
+C
+
+===
+
+TEXTO:
+No capricho
+Ronaldo Boldrim
+
+O Adãozinho, meu cumpade, enquanto esperava pelo delegado, olhava para um quadro, a pintura de uma senhora. Ao entrar a autoridade e percebendo que o cabôco admirava tal figura, perguntou: "Que tal? Gosta desse quadro?" E o Adãozinho, com toda a sinceridade que Deus dá ao cabôco da roça: "Mas pelo amor de Deus, hein, dotô! Que muié feia! Parece fiote de cruis-credo, parente do deus-me-livre, mais horríver que briga de cego no escuro." Ao que o delegado não teve como deixar de confessar, um pouco secamente: "É a minha mãe." E o cabôco, em cima da bucha, não perde a linha: "Mais dotô, inté que é uma feiura caprichada."
+
+ITEM:
+O acontecimento que provoca a tensão principal (o conflito) na história ocorre quando:
+
+A) O delegado revela que a mulher do quadro é a sua mãe.
+B) Adãozinho chega à delegacia e senta-se para esperar.
+C) O delegado pergunta se Adãozinho gostou da pintura.
+D) O narrador apresenta Adãozinho como seu cumpade.
+
+RESPOSTA:
+A
+
+===
+
+TEXTO:
+No capricho
+Ronaldo Boldrim
+
+O Adãozinho, meu cumpade, enquanto esperava pelo delegado, olhava para um quadro, a pintura de uma senhora. Ao entrar a autoridade e percebendo que o cabôco admirava tal figura, perguntou: "Que tal? Gosta desse quadro?" E o Adãozinho, com toda a sinceridade que Deus dá ao cabôco da roça: "Mas pelo amor de Deus, hein, dotô! Que muié feia! Parece fiote de cruis-credo, parente do deus-me-livre, mais horríver que briga de cego no escuro." Ao que o delegado não teve como deixar de confessar, um pouco secamente: "É a minha mãe." E o cabôco, em cima da bucha, não perde a linha: "Mais dotô, inté que é uma feiura caprichada."
+
+ITEM:
+No trecho "Ao entrar a autoridade e percebendo que o cabôco admirava tal figura...", as expressões destacadas "o caboco" e "tal figura" referem-se, respectivamente, a:
+
+A) Ao delegado e ao quadro.
+B) A Adãozinho e ao quadro.
+C) Ao delegado e à delegacia.
+D) Ao narrador e à mãe do delegado.
+
+RESPOSTA:
+B
+
+===
+
+TEXTO:
+No capricho
+Ronaldo Boldrim
+
+O Adãozinho, meu cumpade, enquanto esperava pelo delegado, olhava para um quadro, a pintura de uma senhora. Ao entrar a autoridade e percebendo que o cabôco admirava tal figura, perguntou: "Que tal? Gosta desse quadro?" E o Adãozinho, com toda a sinceridade que Deus dá ao cabôco da roça: "Mas pelo amor de Deus, hein, dotô! Que muié feia! Parece fiote de cruis-credo, parente do deus-me-livre, mais horríver que briga de cego no escuro." Ao que o delegado não teve como deixar de confessar, um pouco secamente: "É a minha mãe." E o cabôco, em cima da bucha, não perde a linha: "Mais dotô, inté que é uma feiura caprichada."
+
+ITEM:
+O efeito de humor no final da anedota é provocado principalmente porque Adãozinho:
+
+A) Pede desculpas formalmente e diz que não entende nada de pintura.
+B) Tenta elogiar o quadro para consertar a gafe, mas não consegue.
+C) Finge que estava olhando para outro objeto na sala do delegado.
+D) Começa a rir da reação séria da autoridade policial.
+
+RESPOSTA:
+B
+
+===
+
+TEXTO:
+Os Livros como Paixão
+Ladrão de livros de 85 anos é proibido de entrar em bibliotecas da Califórnia
+Folha Online, 14 nov. de 2002
+
+Ninguém compreende a minha paixão por livros. E era uma grande paixão: o pequeno apartamento em que vivia estava literalmente atulhado de romances, livros de contos, obras de autoajuda, textos médicos, até. Não que ele os lesse. Ler era secundário. O importante era possuir os livros, saber que toda aquela riqueza cultural do passado estava ali, ao alcance de sua mão. A mão que acariciava as lombadas, que folheava amorosamente as páginas.
+O problema é que livros custam dinheiro. E dinheiro lhe faltava. Aos 85 anos, vivendo de uma modesta aposentadoria, o ancião não podia dispender muito em livrarias. Por isso roubava. "Roubo", aliás, era uma expressão que lhe desagradava; preferia falar em algo como "redistribuição da riqueza intelectual". Mas o eufemismo não o ajudava muito. Nem as mãos trêmulas, nem a lentidão.
+Cada vez que ia roubar um livro, deixava cair uma pilha inteira no chão. Mais do que isso, não sabia disfarçar: os bibliotecários sabiam quando ele estava roubando. Pediam-lhe as obras furtadas de volta e, justiça seja feita, ele nunca se negou a fazê-lo. Era parte de um jogo, um jogo que ele adorava; e cujas regras sempre respeitou.
+Infelizmente, porém, os bibliotecários cansaram deste jogo. E um acordo entre eles resultou em uma decisão: o homem agora está proibido de entrar nas bibliotecas. Não adianta ele dizer que quer apenas consultar jornais. Não adianta, também, dispor-se a ser revistado. A paciência dos responsáveis simplesmente terminou.
+Resta-lhe refugiar-se em seu sonho. E que sonho é este? Ele sonha que um dia vai ganhar muito dinheiro — num cassino, ou numa loteria. E aí comprará uma grande e antiga biblioteca — que era só dele. Ninguém mais poderá frequentá-la. Ali irá todos os dias. Para roubar livros, claro. E os bibliotecários, seus empregados, não poderão dizer nada. E mais: terão de fingir que não percebem o furto. E ele roubará o que quiser.
+Belo sonho, consolador sonho. O único inimigo deste sonho é o tempo. Com 85 anos, quanto mais ele poderá esperar pelo cassino ou pela loteria? O tempo é um grande e implacável ladrão. E não tem nenhuma paixão por livros.
+
+ITEM:
+De acordo com o texto, qual foi a decisão tomada pelos bibliotecários após cansarem do comportamento do idoso de 85 anos?
+
+A) Aumentar sua aposentadoria para que comprasse livros nas livrarias.
+B) Permitir que ele consultasse apenas jornais mediante revista.
+C) Comprar uma biblioteca antiga para que ele ficasse sozinho.
+D) Proibi-lo de entrar nas bibliotecas.
+
+RESPOSTA:
+D
+
+===
+
+TEXTO:
+Os Livros como Paixão
+Ladrão de livros de 85 anos é proibido de entrar em bibliotecas da Califórnia
+Folha Online, 14 nov. de 2002
+
+Ninguém compreende a minha paixão por livros. E era uma grande paixão: o pequeno apartamento em que vivia estava literalmente atulhado de romances, livros de contos, obras de autoajuda, textos médicos, até. Não que ele os lesse. Ler era secundário. O importante era possuir os livros, saber que toda aquela riqueza cultural do passado estava ali, ao alcance de sua mão. A mão que acariciava as lombadas, que folheava amorosamente as páginas.
+O problema é que livros custam dinheiro. E dinheiro lhe faltava. Aos 85 anos, vivendo de uma modesta aposentadoria, o ancião não podia dispender muito em livrarias. Por isso roubava. "Roubo", aliás, era uma expressão que lhe desagradava; preferia falar em algo como "redistribuição da riqueza intelectual". Mas o eufemismo não o ajudava muito. Nem as mãos trêmulas, nem a lentidão.
+Cada vez que ia roubar um livro, deixava cair uma pilha inteira no chão. Mais do que isso, não sabia disfarçar: os bibliotecários sabiam quando ele estava roubando. Pediam-lhe as obras furtadas de volta e, justiça seja feita, ele nunca se negou a fazê-lo. Era parte de um jogo, um jogo que ele adorava; e cujas regras sempre respeitou.
+Infelizmente, porém, os bibliotecários cansaram deste jogo. E um acordo entre eles resultou em uma decisão: o homem agora está proibido de entrar nas bibliotecas. Não adianta ele dizer que quer apenas consultar jornais. Não adianta, também, dispor-se a ser revistado. A paciência dos responsáveis simplesmente terminou.
+Resta-lhe refugiar-se em seu sonho. E que sonho é este? Ele sonha que um dia vai ganhar muito dinheiro — num cassino, ou numa loteria. E aí comprará uma grande e antiga biblioteca — que era só dele. Ninguém mais poderá frequentá-la. Ali irá todos os dias. Para roubar livros, claro. E os bibliotecários, seus empregados, não poderão dizer nada. E mais: terão de fingir que não percebem o furto. E ele roubará o que quiser.
+Belo sonho, consolador sonho. O único inimigo deste sonho é o tempo. Com 85 anos, quanto mais ele poderá esperar pelo cassino ou pela loteria? O tempo é um grande e implacável ladrão. E não tem nenhuma paixão por livros.
+
+ITEM:
+Com base no texto, ao dizer que "Ler era secundário. O importante era possuir os livros" e que "O tempo é um grande e implacável ladrão", infere-se que o idoso e o narrador enxergam, respectivamente:
+
+A) O livro como objeto de posse e afeto para o idoso, e o tempo como ameaça que reduz suas chances de realizar o sonho.
+B) Os livros como mercadoria sem valor cultural, e o tempo como um amigo que devolve os anos perdidos.
+C) A leitura como obrigação profissional para o idoso, e o tempo como aliado que traz sorte nos jogos.
+D) As bibliotecas como espaços vazios, e o tempo como algo que não afeta pessoas idosas.
+
+RESPOSTA:
+A
+
+===
+
+TEXTO:
+Os Livros como Paixão
+Ladrão de livros de 85 anos é proibido de entrar em bibliotecas da Califórnia
+Folha Online, 14 nov. de 2002
+
+Ninguém compreende a minha paixão por livros. E era uma grande paixão: o pequeno apartamento em que vivia estava literalmente atulhado de romances, livros de contos, obras de autoajuda, textos médicos, até. Não que ele os lesse. Ler era secundário. O importante era possuir os livros, saber que toda aquela riqueza cultural do passado estava ali, ao alcance de sua mão. A mão que acariciava as lombadas, que folheava amorosamente as páginas.
+O problema é que livros custam dinheiro. E dinheiro lhe faltava. Aos 85 anos, vivendo de uma modesta aposentadoria, o ancião não podia dispender muito em livrarias. Por isso roubava. "Roubo", aliás, era uma expressão que lhe desagradava; preferia falar em algo como "redistribuição da riqueza intelectual". Mas o eufemismo não o ajudava muito. Nem as mãos trêmulas, nem a lentidão.
+Cada vez que ia roubar um livro, deixava cair uma pilha inteira no chão. Mais do que isso, não sabia disfarçar: os bibliotecários sabiam quando ele estava roubando. Pediam-lhe as obras furtadas de volta e, justiça seja feita, ele nunca se negou a fazê-lo. Era parte de um jogo, um jogo que ele adorava; e cujas regras sempre respeitou.
+Infelizmente, porém, os bibliotecários cansaram deste jogo. E um acordo entre eles resultou em uma decisão: o homem agora está proibido de entrar nas bibliotecas. Não adianta ele dizer que quer apenas consultar jornais. Não adianta, também, dispor-se a ser revistado. A paciência dos responsáveis simplesmente terminou.
+Resta-lhe refugiar-se em seu sonho. E que sonho é este? Ele sonha que um dia vai ganhar muito dinheiro — num cassino, ou numa loteria. E aí comprará uma grande e antiga biblioteca — que era só dele. Ninguém mais poderá frequentá-la. Ali irá todos os dias. Para roubar livros, claro. E os bibliotecários, seus empregados, não poderão dizer nada. E mais: terão de fingir que não percebem o furto. E ele roubará o que quiser.
+Belo sonho, consolador sonho. O único inimigo deste sonho é o tempo. Com 85 anos, quanto mais ele poderá esperar pelo cassino ou pela loteria? O tempo é um grande e implacável ladrão. E não tem nenhuma paixão por livros.
+
+ITEM:
+No trecho "preferia falar em algo como 'redistribuição da riqueza intelectual'", a expressão entre aspas foi empregada para suavizar e ressignificar:
+
+A) A doação voluntária de obras para escolas públicas.
+B) A leitura diária de textos médicos e romances.
+C) A compra legal de livros usados em sebos.
+D) O ato de furtar livros das bibliotecas.
+
+RESPOSTA:
+D
+
+===
+
+TEXTO:
+Os Livros como Paixão
+Ladrão de livros de 85 anos é proibido de entrar em bibliotecas da Califórnia
+Folha Online, 14 nov. de 2002
+
+Ninguém compreende a minha paixão por livros. E era uma grande paixão: o pequeno apartamento em que vivia estava literalmente atulhado de romances, livros de contos, obras de autoajuda, textos médicos, até. Não que ele os lesse. Ler era secundário. O importante era possuir os livros, saber que toda aquela riqueza cultural do passado estava ali, ao alcance de sua mão. A mão que acariciava as lombadas, que folheava amorosamente as páginas.
+O problema é que livros custam dinheiro. E dinheiro lhe faltava. Aos 85 anos, vivendo de uma modesta aposentadoria, o ancião não podia dispender muito em livrarias. Por isso roubava. "Roubo", aliás, era uma expressão que lhe desagradava; preferia falar em algo como "redistribuição da riqueza intelectual". Mas o eufemismo não o ajudava muito. Nem as mãos trêmulas, nem a lentidão.
+Cada vez que ia roubar um livro, deixava cair uma pilha inteira no chão. Mais do que isso, não sabia disfarçar: os bibliotecários sabiam quando ele estava roubando. Pediam-lhe as obras furtadas de volta e, justiça seja feita, ele nunca se negou a fazê-lo. Era parte de um jogo, um jogo que ele adorava; e cujas regras sempre respeitou.
+Infelizmente, porém, os bibliotecários cansaram deste jogo. E um acordo entre eles resultou em uma decisão: o homem agora está proibido de entrar nas bibliotecas. Não adianta ele dizer que quer apenas consultar jornais. Não adianta, também, dispor-se a ser revistado. A paciência dos responsáveis simplesmente terminou.
+Resta-lhe refugiar-se em seu sonho. E que sonho é este? Ele sonha que um dia vai ganhar muito dinheiro — num cassino, ou numa loteria. E aí comprará uma grande e antiga biblioteca — que era só dele. Ninguém mais poderá frequentá-la. Ali irá todos os dias. Para roubar livros, claro. E os bibliotecários, seus empregados, não poderão dizer nada. E mais: terão de fingir que não percebem o furto. E ele roubará o que quiser.
+Belo sonho, consolador sonho. O único inimigo deste sonho é o tempo. Com 85 anos, quanto mais ele poderá esperar pelo cassino ou pela loteria? O tempo é um grande e implacável ladrão. E não tem nenhuma paixão por livros.
+
+ITEM:
+O assunto central dessa crônica é:
+
+A) As regras de segurança para evitar furtos em bibliotecas da Califórnia.
+B) A importância de ler obras médicas e livros de autoajuda na velhice.
+C) Um idoso apaixonado por possuir livros que é proibido de frequentar bibliotecas.
+D) O funcionamento de cassinos e loterias na compra de imóveis antigos.
+
+RESPOSTA:
+C
+
+===
+
+TEXTO:
+Os Livros como Paixão
+Ladrão de livros de 85 anos é proibido de entrar em bibliotecas da Califórnia
+Folha Online, 14 nov. de 2002
+
+Ninguém compreende a minha paixão por livros. E era uma grande paixão: o pequeno apartamento em que vivia estava literalmente atulhado de romances, livros de contos, obras de autoajuda, textos médicos, até. Não que ele os lesse. Ler era secundário. O importante era possuir os livros, saber que toda aquela riqueza cultural do passado estava ali, ao alcance de sua mão. A mão que acariciava as lombadas, que folheava amorosamente as páginas.
+O problema é que livros custam dinheiro. E dinheiro lhe faltava. Aos 85 anos, vivendo de uma modesta aposentadoria, o ancião não podia dispender muito em livrarias. Por isso roubava. "Roubo", aliás, era uma expressão que lhe desagradava; preferia falar em algo como "redistribuição da riqueza intelectual". Mas o eufemismo não o ajudava muito. Nem as mãos trêmulas, nem a lentidão.
+Cada vez que ia roubar um livro, deixava cair uma pilha inteira no chão. Mais do que isso, não sabia disfarçar: os bibliotecários sabiam quando ele estava roubando. Pediam-lhe as obras furtadas de volta e, justiça seja feita, ele nunca se negou a fazê-lo. Era parte de um jogo, um jogo que ele adorava; e cujas regras sempre respeitou.
+Infelizmente, porém, os bibliotecários cansaram deste jogo. E um acordo entre eles resultou em uma decisão: o homem agora está proibido de entrar nas bibliotecas. Não adianta ele dizer que quer apenas consultar jornais. Não adianta, também, dispor-se a ser revistado. A paciência dos responsáveis simplesmente terminou.
+Resta-lhe refugiar-se em seu sonho. E que sonho é este? Ele sonha que um dia vai ganhar muito dinheiro — num cassino, ou numa loteria. E aí comprará uma grande e antiga biblioteca — que era só dele. Ninguém mais poderá frequentá-la. Ali irá todos os dias. Para roubar livros, claro. E os bibliotecários, seus empregados, não poderão dizer nada. E mais: terão de fingir que não percebem o furto. E ele roubará o que quiser.
+Belo sonho, consolador sonho. O único inimigo deste sonho é o tempo. Com 85 anos, quanto mais ele poderá esperar pelo cassino ou pela loteria? O tempo é um grande e implacável ladrão. E não tem nenhuma paixão por livros.
+
+ITEM:
+Na narrativa, o fato que desencadeia a proibição do idoso nas bibliotecas ocorre quando:
+
+A) Ele deixa de devolver os livros que pegava emprestados com autorização.
+B) Os bibliotecários perdem a paciência com os furtos repetidos e o barram.
+C) Ele se muda para um apartamento menor sem espaço para estantes.
+D) Ele ganha um prêmio na loteria e compra uma biblioteca particular.
+
+RESPOSTA:
+B
+
+===
+
+TEXTO:
+Os Livros como Paixão
+Ladrão de livros de 85 anos é proibido de entrar em bibliotecas da Califórnia
+Folha Online, 14 nov. de 2002
+
+Ninguém compreende a minha paixão por livros. E era uma grande paixão: o pequeno apartamento em que vivia estava literalmente atulhado de romances, livros de contos, obras de autoajuda, textos médicos, até. Não que ele os lesse. Ler era secundário. O importante era possuir os livros, saber que toda aquela riqueza cultural do passado estava ali, ao alcance de sua mão. A mão que acariciava as lombadas, que folheava amorosamente as páginas.
+O problema é que livros custam dinheiro. E dinheiro lhe faltava. Aos 85 anos, vivendo de uma modesta aposentadoria, o ancião não podia dispender muito em livrarias. Por isso roubava. "Roubo", aliás, era uma expressão que lhe desagradava; preferia falar em algo como "redistribuição da riqueza intelectual". Mas o eufemismo não o ajudava muito. Nem as mãos trêmulas, nem a lentidão.
+Cada vez que ia roubar um livro, deixava cair uma pilha inteira no chão. Mais do que isso, não sabia disfarçar: os bibliotecários sabiam quando ele estava roubando. Pediam-lhe as obras furtadas de volta e, justiça seja feita, ele nunca se negou a fazê-lo. Era parte de um jogo, um jogo que ele adorava; e cujas regras sempre respeitou.
+Infelizmente, porém, os bibliotecários cansaram deste jogo. E um acordo entre eles resultou em uma decisão: o homem agora está proibido de entrar nas bibliotecas. Não adianta ele dizer que quer apenas consultar jornais. Não adianta, também, dispor-se a ser revistado. A paciência dos responsáveis simplesmente terminou.
+Resta-lhe refugiar-se em seu sonho. E que sonho é este? Ele sonha que um dia vai ganhar muito dinheiro — num cassino, ou numa loteria. E aí comprará uma grande e antiga biblioteca — que era só dele. Ninguém mais poderá frequentá-la. Ali irá todos os dias. Para roubar livros, claro. E os bibliotecários, seus empregados, não poderão dizer nada. E mais: terão de fingir que não percebem o furto. E ele roubará o que quiser.
+Belo sonho, consolador sonho. O único inimigo deste sonho é o tempo. Com 85 anos, quanto mais ele poderá esperar pelo cassino ou pela loteria? O tempo é um grande e implacável ladrão. E não tem nenhuma paixão por livros.
+
+ITEM:
+No trecho "Pediam-lhe as obras furtadas de volta e, justiça seja feita, ele nunca se negou a fazê-lo", a expressão destacada "fazê-lo" retoma a ação de:
+
+A) Jogar na loteria ou no cassino.
+B) Roubar livros nas bibliotecas.
+C) Devolver as obras furtadas.
+D) Consultar jornais antigos.
+
+RESPOSTA:
+C
+
+===
+
+TEXTO:
+Os Livros como Paixão
+Ladrão de livros de 85 anos é proibido de entrar em bibliotecas da Califórnia
+Folha Online, 14 nov. de 2002
+
+Ninguém compreende a minha paixão por livros. E era uma grande paixão: o pequeno apartamento em que vivia estava literalmente atulhado de romances, livros de contos, obras de autoajuda, textos médicos, até. Não que ele os lesse. Ler era secundário. O importante era possuir os livros, saber que toda aquela riqueza cultural do passado estava ali, ao alcance de sua mão. A mão que acariciava as lombadas, que folheava amorosamente as páginas.
+O problema é que livros custam dinheiro. E dinheiro lhe faltava. Aos 85 anos, vivendo de uma modesta aposentadoria, o ancião não podia dispender muito em livrarias. Por isso roubava. "Roubo", aliás, era uma expressão que lhe desagradava; preferia falar em algo como "redistribuição da riqueza intelectual". Mas o eufemismo não o ajudava muito. Nem as mãos trêmulas, nem a lentidão.
+Cada vez que ia roubar um livro, deixava cair uma pilha inteira no chão. Mais do que isso, não sabia disfarçar: os bibliotecários sabiam quando ele estava roubando. Pediam-lhe as obras furtadas de volta e, justiça seja feita, ele nunca se negou a fazê-lo. Era parte de um jogo, um jogo que ele adorava; e cujas regras sempre respeitou.
+Infelizmente, porém, os bibliotecários cansaram deste jogo. E um acordo entre eles resultou em uma decisão: o homem agora está proibido de entrar nas bibliotecas. Não adianta ele dizer que quer apenas consultar jornais. Não adianta, também, dispor-se a ser revistado. A paciência dos responsáveis simplesmente terminou.
+Resta-lhe refugiar-se em seu sonho. E que sonho é este? Ele sonha que um dia vai ganhar muito dinheiro — num cassino, ou numa loteria. E aí comprará uma grande e antiga biblioteca — que era só dele. Ninguém mais poderá frequentá-la. Ali irá todos os dias. Para roubar livros, claro. E os bibliotecários, seus empregados, não poderão dizer nada. E mais: terão de fingir que não percebem o furto. E ele roubará o que quiser.
+Belo sonho, consolador sonho. O único inimigo deste sonho é o tempo. Com 85 anos, quanto mais ele poderá esperar pelo cassino ou pela loteria? O tempo é um grande e implacável ladrão. E não tem nenhuma paixão por livros.
+
+ITEM:
+Há um efeito de humor e ironia na crônica quando o narrador comenta que, no sonho do idoso de comprar sua própria biblioteca, ele iria todos os dias "Para roubar livros, claro. E os bibliotecários, seus empregados, não poderão dizer nada", porque:
+
+A) Roubar algo que já é seu cria uma situação absurda e divertida.
+B) O idoso planeja trabalhar como bibliotecário voluntário no sonho.
+C) Os livros da biblioteca imaginária são proibidos de ser folheados.
+D) O cassino exige que o ganhador doe todos os livros comprados.
+
+RESPOSTA:
+A
+
+===
+
+TEXTO:
+Os Livros como Paixão
+Ladrão de livros de 85 anos é proibido de entrar em bibliotecas da Califórnia
+Folha Online, 14 nov. de 2002
+
+Ninguém compreende a minha paixão por livros. E era uma grande paixão: o pequeno apartamento em que vivia estava literalmente atulhado de romances, livros de contos, obras de autoajuda, textos médicos, até. Não que ele os lesse. Ler era secundário. O importante era possuir os livros, saber que toda aquela riqueza cultural do passado estava ali, ao alcance de sua mão. A mão que acariciava as lombadas, que folheava amorosamente as páginas.
+O problema é que livros custam dinheiro. E dinheiro lhe faltava. Aos 85 anos, vivendo de uma modesta aposentadoria, o ancião não podia dispender muito em livrarias. Por isso roubava. "Roubo", aliás, era uma expressão que lhe desagradava; preferia falar em algo como "redistribuição da riqueza intelectual". Mas o eufemismo não o ajudava muito. Nem as mãos trêmulas, nem a lentidão.
+Cada vez que ia roubar um livro, deixava cair uma pilha inteira no chão. Mais do que isso, não sabia disfarçar: os bibliotecários sabiam quando ele estava roubando. Pediam-lhe as obras furtadas de volta e, justiça seja feita, ele nunca se negou a fazê-lo. Era parte de um jogo, um jogo que ele adorava; e cujas regras sempre respeitou.
+Infelizmente, porém, os bibliotecários cansaram deste jogo. E um acordo entre eles resultou em uma decisão: o homem agora está proibido de entrar nas bibliotecas. Não adianta ele dizer que quer apenas consultar jornais. Não adianta, também, dispor-se a ser revistado. A paciência dos responsáveis simplesmente terminou.
+Resta-lhe refugiar-se em seu sonho. E que sonho é este? Ele sonha que um dia vai ganhar muito dinheiro — num cassino, ou numa loteria. E aí comprará uma grande e antiga biblioteca — que era só dele. Ninguém mais poderá frequentá-la. Ali irá todos os dias. Para roubar livros, claro. E os bibliotecários, seus empregados, não poderão dizer nada. E mais: terão de fingir que não percebem o furto. E ele roubará o que quiser.
+Belo sonho, consolador sonho. O único inimigo deste sonho é o tempo. Com 85 anos, quanto mais ele poderá esperar pelo cassino ou pela loteria? O tempo é um grande e implacável ladrão. E não tem nenhuma paixão por livros.
+
+ITEM:
+No trecho "Mas o eufemismo não o ajudava muito. Nem as mãos trêmulas, nem a lentidão", o termo "nem" estabelece uma relação lógico-discursiva de:
+
+A) Condição para que o idoso fosse descoberto.
+B) Finalidade de justificar a proibição nas bibliotecas.
+C) Oposição entre a velocidade do idoso e a dos bibliotecários.
+D) Adição de outros elementos que também não ajudavam o personagem.
+
+RESPOSTA:
+D
+
+===
+
+TEXTO:
+Minha casa me obedece
+A automatização do lar é uma delícia — mas não exagere
+Walcyr Carrasco
+
+Outro dia, um amigo me contou orgulhoso que comprou uma casa automatizada e inteligente. "Alexa, liga a luz", "Siri, fecha a cortina". O ar-condicionado decide sozinho quando se deve sentir frio ou calor. O meu amigo acorda e diz: "Bom dia, casa!", e a casa responde com notícias, café passado e a previsão do tempo. Dá uma bronca por não beber água suficiente — ajudada pelo smart relógio que conta suas passadas e até prevê quantas calorias vai perder no dia. Achei a residência de meu amigo maravilhosa e resolvi automatizar a minha também. Instalei tudo: luz, cortina, cafeteira, até a privada só falta dar bom-dia. Mas esquenta, higieniza, tem personalidade e vida própria. Confessando: é japonesa e, lá no Oriente, é mais que comum.
+Parece que minha casa é psicóloga e coach de estilo de vida. Sugere meditação, playlist relaxante e me lembra que devo caminhar mais. E que também devo respirar profundamente e mergulhar em mim mesmo... Claro que não me dá parabéns quando eu acerto. A casa quer me fazer evoluir a todo custo. E automação tem dessas: é inspirada diretamente por um estilo de vida zen-budista. Outro dia pedi pra casa trazer paz e ela me conectou direto em uma live de ioga. E quando pedi surpresas boas, a campainha tocou sozinha sem ninguém na porta. Acho que até os fantasmas entraram no wi-fi.
+Está sendo um grande desafio. O controle remoto, que antes só mudava de canal (quando eu não errava), agora também comanda o blecaute, a cortina, o aquecimento da banheira e o som de todos os ambientes, sem contar todas as luzes da casa. Melhor ainda: está instalado no próprio celular. Tanto que meu celular, que deveria só me conectar com outras pessoas, resolveu avisar que a geladeira está com sede. Sim, com sede, e corro botar água pra fazer gelo. Mas nem tudo é um mar de rosas. Eu dou o comando "apagar luz da sala" e o sistema liga o micro-ondas. Peço "colocar música clássica" e a casa entende "forró no último volume". Às 2 da manhã, acordo com o aspirador de pó rodando sozinho como se tivesse vida própria. E tem o risco do exagero, se passo o dia dando ordens para a casa: "tranca a porta", "abre a cortina", "liga a TV", "desliga a TV", "liga a TV de novo". No fim, quem virou o empregado fui eu! A gente corre o risco de ser escravizado pelo próprio interruptor.
+Confesso que tenho saudades de vovó, que tinha a casa mais simples e funcional do universo. Ela dava uma cotovelada e meu avô levantava para apagar a luz. Isso, sim, é automação eficiente. E ainda fortalecia o casamento. Embora não funcionasse quando ela entrava em guerra para ele parar de roncar. Brincadeiras à parte, claro que adoro tecnologia. Só não quero uma casa que seja mais inteligente do que eu — embora ultimamente isso pareça ser difícil. Porque, cá entre nós, se um dia minha cafeteira começar a me dar bronca por tomar muito café, mudo para a floresta.
+
+ITEM:
+De acordo com o primeiro parágrafo do texto, o que a casa automatizada do amigo responde quando ele diz "Bom dia, casa!" ao acordar?
+
+A) Responde com notícias, café passado e a previsão do tempo.
+B) Avisa que a geladeira está com sede para fazer gelo.
+C) Liga o micro-ondas e toca forró no último volume.
+D) Sugere meditação e uma playlist relaxante.
+
+RESPOSTA:
+A
+
+===
+
+TEXTO:
+Minha casa me obedece
+A automatização do lar é uma delícia — mas não exagere
+Walcyr Carrasco
+
+Outro dia, um amigo me contou orgulhoso que comprou uma casa automatizada e inteligente. "Alexa, liga a luz", "Siri, fecha a cortina". O ar-condicionado decide sozinho quando se deve sentir frio ou calor. O meu amigo acorda e diz: "Bom dia, casa!", e a casa responde com notícias, café passado e a previsão do tempo. Dá uma bronca por não beber água suficiente — ajudada pelo smart relógio que conta suas passadas e até prevê quantas calorias vai perder no dia. Achei a residência de meu amigo maravilhosa e resolvi automatizar a minha também. Instalei tudo: luz, cortina, cafeteira, até a privada só falta dar bom-dia. Mas esquenta, higieniza, tem personalidade e vida própria. Confessando: é japonesa e, lá no Oriente, é mais que comum.
+Parece que minha casa é psicóloga e coach de estilo de vida. Sugere meditação, playlist relaxante e me lembra que devo caminhar mais. E que também devo respirar profundamente e mergulhar em mim mesmo... Claro que não me dá parabéns quando eu acerto. A casa quer me fazer evoluir a todo custo. E automação tem dessas: é inspirada diretamente por um estilo de vida zen-budista. Outro dia pedi pra casa trazer paz e ela me conectou direto em uma live de ioga. E quando pedi surpresas boas, a campainha tocou sozinha sem ninguém na porta. Acho que até os fantasmas entraram no wi-fi.
+Está sendo um grande desafio. O controle remoto, que antes só mudava de canal (quando eu não errava), agora também comanda o blecaute, a cortina, o aquecimento da banheira e o som de todos os ambientes, sem contar todas as luzes da casa. Melhor ainda: está instalado no próprio celular. Tanto que meu celular, que deveria só me conectar com outras pessoas, resolveu avisar que a geladeira está com sede. Sim, com sede, e corro botar água pra fazer gelo. Mas nem tudo é um mar de rosas. Eu dou o comando "apagar luz da sala" e o sistema liga o micro-ondas. Peço "colocar música clássica" e a casa entende "forró no último volume". Às 2 da manhã, acordo com o aspirador de pó rodando sozinho como se tivesse vida própria. E tem o risco do exagero, se passo o dia dando ordens para a casa: "tranca a porta", "abre a cortina", "liga a TV", "desliga a TV", "liga a TV de novo". No fim, quem virou o empregado fui eu! A gente corre o risco de ser escravizado pelo próprio interruptor.
+Confesso que tenho saudades de vovó, que tinha a casa mais simples e funcional do universo. Ela dava uma cotovelada e meu avô levantava para apagar a luz. Isso, sim, é automação eficiente. E ainda fortalecia o casamento. Embora não funcionasse quando ela entrava em guerra para ele parar de roncar. Brincadeiras à parte, claro que adoro tecnologia. Só não quero uma casa que seja mais inteligente do que eu — embora ultimamente isso pareça ser difícil. Porque, cá entre nós, se um dia minha cafeteira começar a me dar bronca por tomar muito café, mudo para a floresta.
+
+ITEM:
+Ao afirmar no texto que "No fim, quem virou o empregado fui eu! A gente corre o risco de ser escravizado pelo próprio interruptor", infere-se que o autor critica:
+
+A) A ausência de assistência técnica para consertar o celular e o controle remoto.
+B) A inversão de papéis, em que o morador passa a depender da tecnologia.
+C) A decisão da avó de não usar eletrodomésticos na rotina diária.
+D) A falta de aparelhos eletrônicos nas casas modernas.
+
+RESPOSTA:
+B
+
+===
+
+TEXTO:
+Minha casa me obedece
+A automatização do lar é uma delícia — mas não exagere
+Walcyr Carrasco
+
+Outro dia, um amigo me contou orgulhoso que comprou uma casa automatizada e inteligente. "Alexa, liga a luz", "Siri, fecha a cortina". O ar-condicionado decide sozinho quando se deve sentir frio ou calor. O meu amigo acorda e diz: "Bom dia, casa!", e a casa responde com notícias, café passado e a previsão do tempo. Dá uma bronca por não beber água suficiente — ajudada pelo smart relógio que conta suas passadas e até prevê quantas calorias vai perder no dia. Achei a residência de meu amigo maravilhosa e resolvi automatizar a minha também. Instalei tudo: luz, cortina, cafeteira, até a privada só falta dar bom-dia. Mas esquenta, higieniza, tem personalidade e vida própria. Confessando: é japonesa e, lá no Oriente, é mais que comum.
+Parece que minha casa é psicóloga e coach de estilo de vida. Sugere meditação, playlist relaxante e me lembra que devo caminhar mais. E que também devo respirar profundamente e mergulhar em mim mesmo... Claro que não me dá parabéns quando eu acerto. A casa quer me fazer evoluir a todo custo. E automação tem dessas: é inspirada diretamente por um estilo de vida zen-budista. Outro dia pedi pra casa trazer paz e ela me conectou direto em uma live de ioga. E quando pedi surpresas boas, a campainha tocou sozinha sem ninguém na porta. Acho que até os fantasmas entraram no wi-fi.
+Está sendo um grande desafio. O controle remoto, que antes só mudava de canal (quando eu não errava), agora também comanda o blecaute, a cortina, o aquecimento da banheira e o som de todos os ambientes, sem contar todas as luzes da casa. Melhor ainda: está instalado no próprio celular. Tanto que meu celular, que deveria só me conectar com outras pessoas, resolveu avisar que a geladeira está com sede. Sim, com sede, e corro botar água pra fazer gelo. Mas nem tudo é um mar de rosas. Eu dou o comando "apagar luz da sala" e o sistema liga o micro-ondas. Peço "colocar música clássica" e a casa entende "forró no último volume". Às 2 da manhã, acordo com o aspirador de pó rodando sozinho como se tivesse vida própria. E tem o risco do exagero, se passo o dia dando ordens para a casa: "tranca a porta", "abre a cortina", "liga a TV", "desliga a TV", "liga a TV de novo". No fim, quem virou o empregado fui eu! A gente corre o risco de ser escravizado pelo próprio interruptor.
+Confesso que tenho saudades de vovó, que tinha a casa mais simples e funcional do universo. Ela dava uma cotovelada e meu avô levantava para apagar a luz. Isso, sim, é automação eficiente. E ainda fortalecia o casamento. Embora não funcionasse quando ela entrava em guerra para ele parar de roncar. Brincadeiras à parte, claro que adoro tecnologia. Só não quero uma casa que seja mais inteligente do que eu — embora ultimamente isso pareça ser difícil. Porque, cá entre nós, se um dia minha cafeteira começar a me dar bronca por tomar muito café, mudo para a floresta.
+
+ITEM:
+No trecho "Mas nem tudo é um mar de rosas", a expressão destacada "mar de rosas" indica que a experiência com a casa automatizada:
+
+A) Depende exclusivamente de flores e aromas naturais.
+B) Funciona melhor quando ninguém está em casa.
+C) É totalmente livre de falhas ou imprevistos.
+D) Tem também problemas e contratempos.
+
+RESPOSTA:
+D
+
+===
+
+TEXTO:
+Minha casa me obedece
+A automatização do lar é uma delícia — mas não exagere
+Walcyr Carrasco
+
+Outro dia, um amigo me contou orgulhoso que comprou uma casa automatizada e inteligente. "Alexa, liga a luz", "Siri, fecha a cortina". O ar-condicionado decide sozinho quando se deve sentir frio ou calor. O meu amigo acorda e diz: "Bom dia, casa!", e a casa responde com notícias, café passado e a previsão do tempo. Dá uma bronca por não beber água suficiente — ajudada pelo smart relógio que conta suas passadas e até prevê quantas calorias vai perder no dia. Achei a residência de meu amigo maravilhosa e resolvi automatizar a minha também. Instalei tudo: luz, cortina, cafeteira, até a privada só falta dar bom-dia. Mas esquenta, higieniza, tem personalidade e vida própria. Confessando: é japonesa e, lá no Oriente, é mais que comum.
+Parece que minha casa é psicóloga e coach de estilo de vida. Sugere meditação, playlist relaxante e me lembra que devo caminhar mais. E que também devo respirar profundamente e mergulhar em mim mesmo... Claro que não me dá parabéns quando eu acerto. A casa quer me fazer evoluir a todo custo. E automação tem dessas: é inspirada diretamente por um estilo de vida zen-budista. Outro dia pedi pra casa trazer paz e ela me conectou direto em uma live de ioga. E quando pedi surpresas boas, a campainha tocou sozinha sem ninguém na porta. Acho que até os fantasmas entraram no wi-fi.
+Está sendo um grande desafio. O controle remoto, que antes só mudava de canal (quando eu não errava), agora também comanda o blecaute, a cortina, o aquecimento da banheira e o som de todos os ambientes, sem contar todas as luzes da casa. Melhor ainda: está instalado no próprio celular. Tanto que meu celular, que deveria só me conectar com outras pessoas, resolveu avisar que a geladeira está com sede. Sim, com sede, e corro botar água pra fazer gelo. Mas nem tudo é um mar de rosas. Eu dou o comando "apagar luz da sala" e o sistema liga o micro-ondas. Peço "colocar música clássica" e a casa entende "forró no último volume". Às 2 da manhã, acordo com o aspirador de pó rodando sozinho como se tivesse vida própria. E tem o risco do exagero, se passo o dia dando ordens para a casa: "tranca a porta", "abre a cortina", "liga a TV", "desliga a TV", "liga a TV de novo". No fim, quem virou o empregado fui eu! A gente corre o risco de ser escravizado pelo próprio interruptor.
+Confesso que tenho saudades de vovó, que tinha a casa mais simples e funcional do universo. Ela dava uma cotovelada e meu avô levantava para apagar a luz. Isso, sim, é automação eficiente. E ainda fortalecia o casamento. Embora não funcionasse quando ela entrava em guerra para ele parar de roncar. Brincadeiras à parte, claro que adoro tecnologia. Só não quero uma casa que seja mais inteligente do que eu — embora ultimamente isso pareça ser difícil. Porque, cá entre nós, se um dia minha cafeteira começar a me dar bronca por tomar muito café, mudo para a floresta.
+
+ITEM:
+O assunto principal abordado nesse artigo de opinião é:
+
+A) As regras para instalar sistemas de som e iluminação em residências.
+B) A história da arquitetura japonesa e do estilo de vida zen-budista.
+C) As vantagens e os riscos do exagero na automação da casa.
+D) As lembranças de infância do autor na casa dos avós.
+
+RESPOSTA:
+C
+
+===
+
+TEXTO:
+Minha casa me obedece
+A automatização do lar é uma delícia — mas não exagere
+Walcyr Carrasco
+
+Outro dia, um amigo me contou orgulhoso que comprou uma casa automatizada e inteligente. "Alexa, liga a luz", "Siri, fecha a cortina". O ar-condicionado decide sozinho quando se deve sentir frio ou calor. O meu amigo acorda e diz: "Bom dia, casa!", e a casa responde com notícias, café passado e a previsão do tempo. Dá uma bronca por não beber água suficiente — ajudada pelo smart relógio que conta suas passadas e até prevê quantas calorias vai perder no dia. Achei a residência de meu amigo maravilhosa e resolvi automatizar a minha também. Instalei tudo: luz, cortina, cafeteira, até a privada só falta dar bom-dia. Mas esquenta, higieniza, tem personalidade e vida própria. Confessando: é japonesa e, lá no Oriente, é mais que comum.
+Parece que minha casa é psicóloga e coach de estilo de vida. Sugere meditação, playlist relaxante e me lembra que devo caminhar mais. E que também devo respirar profundamente e mergulhar em mim mesmo... Claro que não me dá parabéns quando eu acerto. A casa quer me fazer evoluir a todo custo. E automação tem dessas: é inspirada diretamente por um estilo de vida zen-budista. Outro dia pedi pra casa trazer paz e ela me conectou direto em uma live de ioga. E quando pedi surpresas boas, a campainha tocou sozinha sem ninguém na porta. Acho que até os fantasmas entraram no wi-fi.
+Está sendo um grande desafio. O controle remoto, que antes só mudava de canal (quando eu não errava), agora também comanda o blecaute, a cortina, o aquecimento da banheira e o som de todos os ambientes, sem contar todas as luzes da casa. Melhor ainda: está instalado no próprio celular. Tanto que meu celular, que deveria só me conectar com outras pessoas, resolveu avisar que a geladeira está com sede. Sim, com sede, e corro botar água pra fazer gelo. Mas nem tudo é um mar de rosas. Eu dou o comando "apagar luz da sala" e o sistema liga o micro-ondas. Peço "colocar música clássica" e a casa entende "forró no último volume". Às 2 da manhã, acordo com o aspirador de pó rodando sozinho como se tivesse vida própria. E tem o risco do exagero, se passo o dia dando ordens para a casa: "tranca a porta", "abre a cortina", "liga a TV", "desliga a TV", "liga a TV de novo". No fim, quem virou o empregado fui eu! A gente corre o risco de ser escravizado pelo próprio interruptor.
+Confesso que tenho saudades de vovó, que tinha a casa mais simples e funcional do universo. Ela dava uma cotovelada e meu avô levantava para apagar a luz. Isso, sim, é automação eficiente. E ainda fortalecia o casamento. Embora não funcionasse quando ela entrava em guerra para ele parar de roncar. Brincadeiras à parte, claro que adoro tecnologia. Só não quero uma casa que seja mais inteligente do que eu — embora ultimamente isso pareça ser difícil. Porque, cá entre nós, se um dia minha cafeteira começar a me dar bronca por tomar muito café, mudo para a floresta.
+
+ITEM:
+No trecho "Achei a residência de meu amigo maravilhosa e resolvi automatizar a minha também. Instalei tudo: luz, cortina, cafeteira..." (l. 11-14), o termo destacado "minha" refere-se a:
+
+A) A casa da avó.
+B) Uma casa no Japão.
+C) A residência do amigo.
+D) A casa do próprio autor.
+
+RESPOSTA:
+D
+
+===
+
+TEXTO:
+Minha casa me obedece
+A automatização do lar é uma delícia — mas não exagere
+Walcyr Carrasco
+
+Outro dia, um amigo me contou orgulhoso que comprou uma casa automatizada e inteligente. "Alexa, liga a luz", "Siri, fecha a cortina". O ar-condicionado decide sozinho quando se deve sentir frio ou calor. O meu amigo acorda e diz: "Bom dia, casa!", e a casa responde com notícias, café passado e a previsão do tempo. Dá uma bronca por não beber água suficiente — ajudada pelo smart relógio que conta suas passadas e até prevê quantas calorias vai perder no dia. Achei a residência de meu amigo maravilhosa e resolvi automatizar a minha também. Instalei tudo: luz, cortina, cafeteira, até a privada só falta dar bom-dia. Mas esquenta, higieniza, tem personalidade e vida própria. Confessando: é japonesa e, lá no Oriente, é mais que comum.
+Parece que minha casa é psicóloga e coach de estilo de vida. Sugere meditação, playlist relaxante e me lembra que devo caminhar mais. E que também devo respirar profundamente e mergulhar em mim mesmo... Claro que não me dá parabéns quando eu acerto. A casa quer me fazer evoluir a todo custo. E automação tem dessas: é inspirada diretamente por um estilo de vida zen-budista. Outro dia pedi pra casa trazer paz e ela me conectou direto em uma live de ioga. E quando pedi surpresas boas, a campainha tocou sozinha sem ninguém na porta. Acho que até os fantasmas entraram no wi-fi.
+Está sendo um grande desafio. O controle remoto, que antes só mudava de canal (quando eu não errava), agora também comanda o blecaute, a cortina, o aquecimento da banheira e o som de todos os ambientes, sem contar todas as luzes da casa. Melhor ainda: está instalado no próprio celular. Tanto que meu celular, que deveria só me conectar com outras pessoas, resolveu avisar que a geladeira está com sede. Sim, com sede, e corro botar água pra fazer gelo. Mas nem tudo é um mar de rosas. Eu dou o comando "apagar luz da sala" e o sistema liga o micro-ondas. Peço "colocar música clássica" e a casa entende "forró no último volume". Às 2 da manhã, acordo com o aspirador de pó rodando sozinho como se tivesse vida própria. E tem o risco do exagero, se passo o dia dando ordens para a casa: "tranca a porta", "abre a cortina", "liga a TV", "desliga a TV", "liga a TV de novo". No fim, quem virou o empregado fui eu! A gente corre o risco de ser escravizado pelo próprio interruptor.
+Confesso que tenho saudades de vovó, que tinha a casa mais simples e funcional do universo. Ela dava uma cotovelada e meu avô levantava para apagar a luz. Isso, sim, é automação eficiente. E ainda fortalecia o casamento. Embora não funcionasse quando ela entrava em guerra para ele parar de roncar. Brincadeiras à parte, claro que adoro tecnologia. Só não quero uma casa que seja mais inteligente do que eu — embora ultimamente isso pareça ser difícil. Porque, cá entre nós, se um dia minha cafeteira começar a me dar bronca por tomar muito café, mudo para a floresta.
+
+ITEM:
+No subtítulo "A automatização do lar é uma delícia mas não exagere", a palavra "mas" estabelece uma relação de:
+
+A) Adição de uma nova vantagem.
+B) Oposição ou ressalva à ideia anterior.
+C) Conclusão de um raciocínio matemático.
+D) Condição para um acontecimento futuro.
+
+RESPOSTA:
+B
+
+===
+
+TEXTO:
+Minha casa me obedece
+A automatização do lar é uma delícia — mas não exagere
+Walcyr Carrasco
+
+Outro dia, um amigo me contou orgulhoso que comprou uma casa automatizada e inteligente. "Alexa, liga a luz", "Siri, fecha a cortina". O ar-condicionado decide sozinho quando se deve sentir frio ou calor. O meu amigo acorda e diz: "Bom dia, casa!", e a casa responde com notícias, café passado e a previsão do tempo. Dá uma bronca por não beber água suficiente — ajudada pelo smart relógio que conta suas passadas e até prevê quantas calorias vai perder no dia. Achei a residência de meu amigo maravilhosa e resolvi automatizar a minha também. Instalei tudo: luz, cortina, cafeteira, até a privada só falta dar bom-dia. Mas esquenta, higieniza, tem personalidade e vida própria. Confessando: é japonesa e, lá no Oriente, é mais que comum.
+Parece que minha casa é psicóloga e coach de estilo de vida. Sugere meditação, playlist relaxante e me lembra que devo caminhar mais. E que também devo respirar profundamente e mergulhar em mim mesmo... Claro que não me dá parabéns quando eu acerto. A casa quer me fazer evoluir a todo custo. E automação tem dessas: é inspirada diretamente por um estilo de vida zen-budista. Outro dia pedi pra casa trazer paz e ela me conectou direto em uma live de ioga. E quando pedi surpresas boas, a campainha tocou sozinha sem ninguém na porta. Acho que até os fantasmas entraram no wi-fi.
+Está sendo um grande desafio. O controle remoto, que antes só mudava de canal (quando eu não errava), agora também comanda o blecaute, a cortina, o aquecimento da banheira e o som de todos os ambientes, sem contar todas as luzes da casa. Melhor ainda: está instalado no próprio celular. Tanto que meu celular, que deveria só me conectar com outras pessoas, resolveu avisar que a geladeira está com sede. Sim, com sede, e corro botar água pra fazer gelo. Mas nem tudo é um mar de rosas. Eu dou o comando "apagar luz da sala" e o sistema liga o micro-ondas. Peço "colocar música clássica" e a casa entende "forró no último volume". Às 2 da manhã, acordo com o aspirador de pó rodando sozinho como se tivesse vida própria. E tem o risco do exagero, se passo o dia dando ordens para a casa: "tranca a porta", "abre a cortina", "liga a TV", "desliga a TV", "liga a TV de novo". No fim, quem virou o empregado fui eu! A gente corre o risco de ser escravizado pelo próprio interruptor.
+Confesso que tenho saudades de vovó, que tinha a casa mais simples e funcional do universo. Ela dava uma cotovelada e meu avô levantava para apagar a luz. Isso, sim, é automação eficiente. E ainda fortalecia o casamento. Embora não funcionasse quando ela entrava em guerra para ele parar de roncar. Brincadeiras à parte, claro que adoro tecnologia. Só não quero uma casa que seja mais inteligente do que eu — embora ultimamente isso pareça ser difícil. Porque, cá entre nós, se um dia minha cafeteira começar a me dar bronca por tomar muito café, mudo para a floresta.
+
+ITEM:
+O efeito de humor no trecho "Acho que até os fantasmas entraram no wi-fi" (l. 28-29) é construído por meio de:
+
+A) Uma associação entre o toque da campainha e seres sobrenaturais.
+B) Uma crítica séria à falta de segurança digital nas residências.
+C) Um relato histórico sobre a origem da campainha elétrica.
+D) Uma explicação técnica sobre redes de internet sem fio.
+
+RESPOSTA:
+A
+
+===
+
+TEXTO:
+O anel de vidro
+Manuel Bandeira
+
+Aquele pequenino anel que tu me deste,
+– Ai de mim – era vidro e logo se quebrou
+Assim também o eterno amor que prometeste,
+– Eterno! era bem pouco e cedo se acabou.
+
+Frágil penhor que foi do amor que me tiveste,
+Símbolo da afeição que o tempo aniquilou,
+– Aquele pequenino anel que tu me deste,
+– Ai de mim – era vidro e logo se quebrou
+
+Não me turbou, porém, o despeito que investe
+Gritando maldições contra aquilo que amou.
+De ti conservo no peito a saudade celeste
+Como também guardei o pó que me ficou
+Daquele pequenino anel que tu me deste
+
+ITEM:
+De acordo com a última estrofe do poema, o que o eu lírico guardou do pequeno anel depois que ele se quebrou?
+
+A) A caixa onde o presente havia sido entregue.
+B) Uma carta com promessas de amor eterno.
+C) Os cacos maiores para tentar consertá-lo.
+D) O pó que restou dele.
+
+RESPOSTA:
+D
+
+===
+
+TEXTO:
+O anel de vidro
+Manuel Bandeira
+
+Aquele pequenino anel que tu me deste,
+– Ai de mim – era vidro e logo se quebrou
+Assim também o eterno amor que prometeste,
+– Eterno! era bem pouco e cedo se acabou.
+
+Frágil penhor que foi do amor que me tiveste,
+Símbolo da afeição que o tempo aniquilou,
+– Aquele pequenino anel que tu me deste,
+– Ai de mim – era vidro e logo se quebrou
+
+Não me turbou, porém, o despeito que investe
+Gritando maldições contra aquilo que amou.
+De ti conservo no peito a saudade celeste
+Como também guardei o pó que me ficou
+Daquele pequenino anel que tu me deste
+
+ITEM:
+Pela leitura da última estrofe ("Não me turbou, porém, o despeito que investe / Gritando maldições contra aquilo que amou"), infere-se que, diante do fim do relacionamento, o eu lírico reagiu com:
+
+A) Serenidade, guardando apenas boas lembranças sem guardar mágoas.
+B) Indiferença total, esquecendo rapidamente tudo o que viveu.
+C) Revolta por ter recebido um presente de material tão barato.
+D) Ódio e desejo de vingança contra a pessoa amada.
+
+RESPOSTA:
+A
+
+===
+
+TEXTO:
+O anel de vidro
+Manuel Bandeira
+
+Aquele pequenino anel que tu me deste,
+– Ai de mim – era vidro e logo se quebrou
+Assim também o eterno amor que prometeste,
+– Eterno! era bem pouco e cedo se acabou.
+
+Frágil penhor que foi do amor que me tiveste,
+Símbolo da afeição que o tempo aniquilou,
+– Aquele pequenino anel que tu me deste,
+– Ai de mim – era vidro e logo se quebrou
+
+Não me turbou, porém, o despeito que investe
+Gritando maldições contra aquilo que amou.
+De ti conservo no peito a saudade celeste
+Como também guardei o pó que me ficou
+Daquele pequenino anel que tu me deste
+
+ITEM:
+No verso "Frágil penhor que foi do amor que me tiveste" (2ª estrofe), a palavra destacada "penhor" foi empregada com o sentido de:
+
+A) Dívida financeira que nunca foi paga.
+B) Objeto mágico capaz de prever o futuro.
+C) Castigo aplicado após uma traição amorosa.
+D) Prova, garantia ou símbolo de um sentimento.
+
+RESPOSTA:
+D
+
+===
+
+TEXTO:
+O anel de vidro
+Manuel Bandeira
+
+Aquele pequenino anel que tu me deste,
+– Ai de mim – era vidro e logo se quebrou
+Assim também o eterno amor que prometeste,
+– Eterno! era bem pouco e cedo se acabou.
+
+Frágil penhor que foi do amor que me tiveste,
+Símbolo da afeição que o tempo aniquilou,
+– Aquele pequenino anel que tu me deste,
+– Ai de mim – era vidro e logo se quebrou
+
+Não me turbou, porém, o despeito que investe
+Gritando maldições contra aquilo que amou.
+De ti conservo no peito a saudade celeste
+Como também guardei o pó que me ficou
+Daquele pequenino anel que tu me deste
+
+ITEM:
+O tema central do poema de Manuel Bandeira é:
+
+A) A fragilidade das joias fabricadas artesanalmente com vidro.
+B) A comparação entre a brevidade de um amor e a fragilidade de um anel de vidro.
+C) A dificuldade de superar a raiva após o término de um namoro.
+D) O arrependimento de ter aceitado um presente de alguém desconhecido.
+
+RESPOSTA:
+B
+
+===
+
+TEXTO:
+O anel de vidro
+Manuel Bandeira
+
+Aquele pequenino anel que tu me deste,
+– Ai de mim – era vidro e logo se quebrou
+Assim também o eterno amor que prometeste,
+– Eterno! era bem pouco e cedo se acabou.
+
+Frágil penhor que foi do amor que me tiveste,
+Símbolo da afeição que o tempo aniquilou,
+– Aquele pequenino anel que tu me deste,
+– Ai de mim – era vidro e logo se quebrou
+
+Não me turbou, porém, o despeito que investe
+Gritando maldições contra aquilo que amou.
+De ti conservo no peito a saudade celeste
+Como também guardei o pó que me ficou
+Daquele pequenino anel que tu me deste
+
+ITEM:
+No verso "Gritando maldições contra aquilo que amou" (3ª estrofe), a palavra destacada retoma, no contexto do poema:
+
+A) O pó do anel quebrado.
+B) O tempo que passou rápido.
+C) O amor vivido anteriormente.
+D) O despeito sentido pelos inimigos.
+
+RESPOSTA:
+C
+
+===
+
+TEXTO:
+O anel de vidro
+Manuel Bandeira
+
+Aquele pequenino anel que tu me deste,
+– Ai de mim – era vidro e logo se quebrou
+Assim também o eterno amor que prometeste,
+– Eterno! era bem pouco e cedo se acabou.
+
+Frágil penhor que foi do amor que me tiveste,
+Símbolo da afeição que o tempo aniquilou,
+– Aquele pequenino anel que tu me deste,
+– Ai de mim – era vidro e logo se quebrou
+
+Não me turbou, porém, o despeito que investe
+Gritando maldições contra aquilo que amou.
+De ti conservo no peito a saudade celeste
+Como também guardei o pó que me ficou
+Daquele pequenino anel que tu me deste
+
+ITEM:
+No verso "Não me turbou, porém, o despeito que investe" (3ª estrofe), o conectivo destacado "porém" estabelece em relação às estrofes anteriores uma ideia de:
+
+A) Explicação.
+B) Conclusão.
+C) Oposição.
+D) Tempo.
+
+RESPOSTA:
+C
+
+===
+
+TEXTO:
+Biomassa já responde por quase 10% de toda a matriz energética do Brasil
+
+Biomassa é a matéria de origem vegetal ou animal que pode virar energia. Entre os resíduos usados, está o bagaço de cana e os resíduos florestais.
+A biomassa já responde por quase 10% da matriz energética brasileira e hoje é uma das principais linhas de pesquisa no país. Inclusive, já tem empresa produzindo a própria energia a partir da casca de arroz e de aveia.
+A maioria dos brasileiros pode até não saber o que é biomassa, mas ela está pertinho da gente, todo santo dia.
+"Biomassa é toda matéria de origem vegetal ou animal que inclui resíduos, inclui plantações energéticas, inclui plantações de árvores, que podem ser também aproveitadas energeticamente e, até mesmo, resíduos sólidos urbanos, como, por exemplo, o lixo das cidades, resíduos rurais e resíduos de animais", explica Suani Coelho, coordenadora do Centro Nacional de Referência em Biomassa da USP (Universidade de São Paulo).
+É difícil imaginar um país com mais biomassa que o Brasil e com tanto potencial. A biomassa responde por 9,53% da matriz energética brasileira.
+Destaque para o bagaço de cana, resíduos florestais, lixivia, que é um subproduto da indústria papeleira, biogás do lixo e de resíduos agropecuários, casca de arroz, entre outras fontes. Mas, segundo os cientistas, o potencial de exploração energética da biomassa do nosso país equivaleria em uma conta conservadora a pelo menos quatro hidrelétricas de Itaipu.
+Apenas a queima do bagaço de cana gera 10 mil megawatts. "Metade disso é para consumo próprio das usinas, mais ou menos metade é usada para ser exportada para a rede. Mas nós temos um potencial para dobrar essa exportação para a rede, portanto podemos ter mais de uma Itaipu sendo produzida e sendo injetada na rede", aponta Suani Coelho.
+
+ITEM:
+De acordo com o texto, qual é a porcentagem exata pela qual a biomassa responde na matriz energética brasileira?
+
+A) 10 mil megawatts.
+B) 9,53%.
+C) Metade da produção das usinas.
+D) Quatro hidrelétricas de Itaipu.
+
+RESPOSTA:
+B
+
+===
+
+TEXTO:
+Biomassa já responde por quase 10% de toda a matriz energética do Brasil
+
+Biomassa é a matéria de origem vegetal ou animal que pode virar energia. Entre os resíduos usados, está o bagaço de cana e os resíduos florestais.
+A biomassa já responde por quase 10% da matriz energética brasileira e hoje é uma das principais linhas de pesquisa no país. Inclusive, já tem empresa produzindo a própria energia a partir da casca de arroz e de aveia.
+A maioria dos brasileiros pode até não saber o que é biomassa, mas ela está pertinho da gente, todo santo dia.
+"Biomassa é toda matéria de origem vegetal ou animal que inclui resíduos, inclui plantações energéticas, inclui plantações de árvores, que podem ser também aproveitadas energeticamente e, até mesmo, resíduos sólidos urbanos, como, por exemplo, o lixo das cidades, resíduos rurais e resíduos de animais", explica Suani Coelho, coordenadora do Centro Nacional de Referência em Biomassa da USP (Universidade de São Paulo).
+É difícil imaginar um país com mais biomassa que o Brasil e com tanto potencial. A biomassa responde por 9,53% da matriz energética brasileira.
+Destaque para o bagaço de cana, resíduos florestais, lixivia, que é um subproduto da indústria papeleira, biogás do lixo e de resíduos agropecuários, casca de arroz, entre outras fontes. Mas, segundo os cientistas, o potencial de exploração energética da biomassa do nosso país equivaleria em uma conta conservadora a pelo menos quatro hidrelétricas de Itaipu.
+Apenas a queima do bagaço de cana gera 10 mil megawatts. "Metade disso é para consumo próprio das usinas, mais ou menos metade é usada para ser exportada para a rede. Mas nós temos um potencial para dobrar essa exportação para a rede, portanto podemos ter mais de uma Itaipu sendo produzida e sendo injetada na rede", aponta Suani Coelho.
+
+ITEM:
+A partir das falas da coordenadora Suani Coelho e dos dados apresentados no texto, infere-se que o Brasil:
+
+A) Já atingiu o limite máximo de geração de energia por meio da biomassa.
+B) Depende exclusivamente de hidrelétricas e não utiliza resíduos agrícolas ou urbanos.
+C) Ainda tem grande margem para ampliar o aproveitamento energético da biomassa.
+D) Descarta totalmente o bagaço de cana e os resíduos florestais na produção de energia.
+
+RESPOSTA:
+C
+
+===
+
+TEXTO:
+Biomassa já responde por quase 10% de toda a matriz energética do Brasil
+
+Biomassa é a matéria de origem vegetal ou animal que pode virar energia. Entre os resíduos usados, está o bagaço de cana e os resíduos florestais.
+A biomassa já responde por quase 10% da matriz energética brasileira e hoje é uma das principais linhas de pesquisa no país. Inclusive, já tem empresa produzindo a própria energia a partir da casca de arroz e de aveia.
+A maioria dos brasileiros pode até não saber o que é biomassa, mas ela está pertinho da gente, todo santo dia.
+"Biomassa é toda matéria de origem vegetal ou animal que inclui resíduos, inclui plantações energéticas, inclui plantações de árvores, que podem ser também aproveitadas energeticamente e, até mesmo, resíduos sólidos urbanos, como, por exemplo, o lixo das cidades, resíduos rurais e resíduos de animais", explica Suani Coelho, coordenadora do Centro Nacional de Referência em Biomassa da USP (Universidade de São Paulo).
+É difícil imaginar um país com mais biomassa que o Brasil e com tanto potencial. A biomassa responde por 9,53% da matriz energética brasileira.
+Destaque para o bagaço de cana, resíduos florestais, lixivia, que é um subproduto da indústria papeleira, biogás do lixo e de resíduos agropecuários, casca de arroz, entre outras fontes. Mas, segundo os cientistas, o potencial de exploração energética da biomassa do nosso país equivaleria em uma conta conservadora a pelo menos quatro hidrelétricas de Itaipu.
+Apenas a queima do bagaço de cana gera 10 mil megawatts. "Metade disso é para consumo próprio das usinas, mais ou menos metade é usada para ser exportada para a rede. Mas nós temos um potencial para dobrar essa exportação para a rede, portanto podemos ter mais de uma Itaipu sendo produzida e sendo injetada na rede", aponta Suani Coelho.
+
+ITEM:
+No trecho "A maioria dos brasileiros pode até não saber o que é biomassa, mas ela está pertinho da gente, todo santo dia", a expressão destacada "pertinho da gente" indica que a biomassa:
+
+A) Está presente no cotidiano e em materiais comuns próximos à população.
+B) Fica armazenada apenas em laboratórios de universidades paulistas.
+C) Pode ser vista a olho nu em todas as hidrelétricas do país.
+D) É vendida em embalagens prontas nos supermercados.
+
+RESPOSTA:
+A
+
+===
+
+TEXTO:
+Biomassa já responde por quase 10% de toda a matriz energética do Brasil
+
+Biomassa é a matéria de origem vegetal ou animal que pode virar energia. Entre os resíduos usados, está o bagaço de cana e os resíduos florestais.
+A biomassa já responde por quase 10% da matriz energética brasileira e hoje é uma das principais linhas de pesquisa no país. Inclusive, já tem empresa produzindo a própria energia a partir da casca de arroz e de aveia.
+A maioria dos brasileiros pode até não saber o que é biomassa, mas ela está pertinho da gente, todo santo dia.
+"Biomassa é toda matéria de origem vegetal ou animal que inclui resíduos, inclui plantações energéticas, inclui plantações de árvores, que podem ser também aproveitadas energeticamente e, até mesmo, resíduos sólidos urbanos, como, por exemplo, o lixo das cidades, resíduos rurais e resíduos de animais", explica Suani Coelho, coordenadora do Centro Nacional de Referência em Biomassa da USP (Universidade de São Paulo).
+É difícil imaginar um país com mais biomassa que o Brasil e com tanto potencial. A biomassa responde por 9,53% da matriz energética brasileira.
+Destaque para o bagaço de cana, resíduos florestais, lixivia, que é um subproduto da indústria papeleira, biogás do lixo e de resíduos agropecuários, casca de arroz, entre outras fontes. Mas, segundo os cientistas, o potencial de exploração energética da biomassa do nosso país equivaleria em uma conta conservadora a pelo menos quatro hidrelétricas de Itaipu.
+Apenas a queima do bagaço de cana gera 10 mil megawatts. "Metade disso é para consumo próprio das usinas, mais ou menos metade é usada para ser exportada para a rede. Mas nós temos um potencial para dobrar essa exportação para a rede, portanto podemos ter mais de uma Itaipu sendo produzida e sendo injetada na rede", aponta Suani Coelho.
+
+ITEM:
+O assunto principal dessa reportagem é:
+
+A) O funcionamento técnico das turbinas de usinas hidrelétricas.
+B) A história da criação da Universidade de São Paulo.
+C) A participação e o potencial da biomassa na matriz energética do Brasil.
+D) As diferenças entre a produção de arroz e de aveia no campo.
+
+RESPOSTA:
+C
+
+===
+
+TEXTO:
+Biomassa já responde por quase 10% de toda a matriz energética do Brasil
+
+Biomassa é a matéria de origem vegetal ou animal que pode virar energia. Entre os resíduos usados, está o bagaço de cana e os resíduos florestais.
+A biomassa já responde por quase 10% da matriz energética brasileira e hoje é uma das principais linhas de pesquisa no país. Inclusive, já tem empresa produzindo a própria energia a partir da casca de arroz e de aveia.
+A maioria dos brasileiros pode até não saber o que é biomassa, mas ela está pertinho da gente, todo santo dia.
+"Biomassa é toda matéria de origem vegetal ou animal que inclui resíduos, inclui plantações energéticas, inclui plantações de árvores, que podem ser também aproveitadas energeticamente e, até mesmo, resíduos sólidos urbanos, como, por exemplo, o lixo das cidades, resíduos rurais e resíduos de animais", explica Suani Coelho, coordenadora do Centro Nacional de Referência em Biomassa da USP (Universidade de São Paulo).
+É difícil imaginar um país com mais biomassa que o Brasil e com tanto potencial. A biomassa responde por 9,53% da matriz energética brasileira.
+Destaque para o bagaço de cana, resíduos florestais, lixivia, que é um subproduto da indústria papeleira, biogás do lixo e de resíduos agropecuários, casca de arroz, entre outras fontes. Mas, segundo os cientistas, o potencial de exploração energética da biomassa do nosso país equivaleria em uma conta conservadora a pelo menos quatro hidrelétricas de Itaipu.
+Apenas a queima do bagaço de cana gera 10 mil megawatts. "Metade disso é para consumo próprio das usinas, mais ou menos metade é usada para ser exportada para a rede. Mas nós temos um potencial para dobrar essa exportação para a rede, portanto podemos ter mais de uma Itaipu sendo produzida e sendo injetada na rede", aponta Suani Coelho.
+
+ITEM:
+No trecho "Apenas a queima do bagaço de cana gera 10 mil megawatts. 'Metade disso é para consumo próprio das usinas...", a palavra destacada "disso" refere-se:
+
+A) À exportação para a rede elétrica.
+B) À energia de 10 mil megawatts.
+C) Ao lixo sólido das cidades.
+D) À casca de arroz e de aveia.
+
+RESPOSTA:
+B
+
+===
+
+TEXTO:
+Biomassa já responde por quase 10% de toda a matriz energética do Brasil
+
+Biomassa é a matéria de origem vegetal ou animal que pode virar energia. Entre os resíduos usados, está o bagaço de cana e os resíduos florestais.
+A biomassa já responde por quase 10% da matriz energética brasileira e hoje é uma das principais linhas de pesquisa no país. Inclusive, já tem empresa produzindo a própria energia a partir da casca de arroz e de aveia.
+A maioria dos brasileiros pode até não saber o que é biomassa, mas ela está pertinho da gente, todo santo dia.
+"Biomassa é toda matéria de origem vegetal ou animal que inclui resíduos, inclui plantações energéticas, inclui plantações de árvores, que podem ser também aproveitadas energeticamente e, até mesmo, resíduos sólidos urbanos, como, por exemplo, o lixo das cidades, resíduos rurais e resíduos de animais", explica Suani Coelho, coordenadora do Centro Nacional de Referência em Biomassa da USP (Universidade de São Paulo).
+É difícil imaginar um país com mais biomassa que o Brasil e com tanto potencial. A biomassa responde por 9,53% da matriz energética brasileira.
+Destaque para o bagaço de cana, resíduos florestais, lixivia, que é um subproduto da indústria papeleira, biogás do lixo e de resíduos agropecuários, casca de arroz, entre outras fontes. Mas, segundo os cientistas, o potencial de exploração energética da biomassa do nosso país equivaleria em uma conta conservadora a pelo menos quatro hidrelétricas de Itaipu.
+Apenas a queima do bagaço de cana gera 10 mil megawatts. "Metade disso é para consumo próprio das usinas, mais ou menos metade é usada para ser exportada para a rede. Mas nós temos um potencial para dobrar essa exportação para a rede, portanto podemos ter mais de uma Itaipu sendo produzida e sendo injetada na rede", aponta Suani Coelho.
+
+ITEM:
+No trecho "Mas nós temos um potencial para dobrar essa exportação para a rede, portanto podemos ter mais de uma Itaipu sendo produzida...", a palavra destacada "portanto" estabelece uma relação lógico-discursiva de:
+
+A) Conclusão / consequência.
+B) Oposição / contraste.
+C) Alternância / escolha.
+D) Condição / hipótese.
+
+RESPOSTA:
+A
+
+===
+
+TEXTO:
+Pergunta um repórter:
+— Que idade o senhor tem?
+Responde o velho:
+— Noventa e oito anos.
+O repórter:
+— Com essa idade não tem medo de morrer?
+Diz o velho:
+— Não! Todas as estatísticas dizem que, na minha idade, morre muito pouca gente...
+
+ITEM:
+De acordo com o texto, qual é a idade do homem entrevistado pelo repórter?
+
+A) Oitenta e nove anos.
+B) Noventa e oito anos.
+C) Noventa anos.
+D) Cem anos.
+
+RESPOSTA:
+B
+
+===
+
+TEXTO:
+Pergunta um repórter:
+— Que idade o senhor tem?
+Responde o velho:
+— Noventa e oito anos.
+O repórter:
+— Com essa idade não tem medo de morrer?
+Diz o velho:
+— Não! Todas as estatísticas dizem que, na minha idade, morre muito pouca gente...
+
+ITEM:
+Ao afirmar que "morre muito pouca gente" na sua idade, o idoso demonstra uma falha de raciocínio lógico, pois ele não percebeu que:
+
+A) Morre pouca gente nessa faixa etária justamente porque quase ninguém chega à sua idade.
+B) As pesquisas médicas proíbem pessoas acima de 90 anos de dar entrevistas.
+C) Os repórteres costumam inventar dados falsos sobre a expectativa de vida.
+D) Pessoas mais velhas são biologicamente imortais segundo as estatísticas.
+
+RESPOSTA:
+A
+
+===
+
+TEXTO:
+Pergunta um repórter:
+— Que idade o senhor tem?
+Responde o velho:
+— Noventa e oito anos.
+O repórter:
+— Com essa idade não tem medo de morrer?
+Diz o velho:
+— Não! Todas as estatísticas dizem que, na minha idade, morre muito pouca gente...
+
+ITEM:
+No trecho "Todas as estatísticas dizem que, na minha idade, morre muito pouca gente...", a expressão destacada "estatísticas dizem" foi empregada com sentido figurado (personificação) para indicar que:
+
+A) Os números das pesquisas ganham voz e conversam diretamente com o idoso.
+B) Os dados e levantamentos matemáticos apontam ou revelam esse resultado.
+C) Os cientistas entrevistaram todas as pessoas com mais de noventa anos.
+D) O entrevistado não acredita em nenhum tipo de pesquisa numérica.
+
+RESPOSTA:
+B
+
+===
+
+TEXTO:
+Pergunta um repórter:
+— Que idade o senhor tem?
+Responde o velho:
+— Noventa e oito anos.
+O repórter:
+— Com essa idade não tem medo de morrer?
+Diz o velho:
+— Não! Todas as estatísticas dizem que, na minha idade, morre muito pouca gente...
+
+ITEM:
+O assunto principal dessa anedota é:
+
+A) Uma pesquisa científica sobre o aumento da expectativa de vida no Brasil.
+B) As dificuldades enfrentadas por jornalistas ao entrevistar pessoas idosas.
+C) A resposta de um idoso ao ser questionado sobre o medo da morte.
+D) A importância de estudar estatística na terceira idade.
+
+RESPOSTA:
+C
+
+===
+
+TEXTO:
+Pergunta um repórter:
+— Que idade o senhor tem?
+Responde o velho:
+— Noventa e oito anos.
+O repórter:
+— Com essa idade não tem medo de morrer?
+Diz o velho:
+— Não! Todas as estatísticas dizem que, na minha idade, morre muito pouca gente...
+
+ITEM:
+Nessa anedota, o fato que dá início à interação e desencadeia o desenvolvimento do diálogo (conflito gerador) é:
+
+A) O repórter perguntar a idade do senhor.
+B) O idoso afirmar que não tem medo de morrer.
+C) O repórter encerrar a entrevista rapidamente.
+D) O idoso citar dados estatísticos sobre a velhice.
+
+RESPOSTA:
+A
+
+===
+
+TEXTO:
+Pergunta um repórter:
+— Que idade o senhor tem?
+Responde o velho:
+— Noventa e oito anos.
+O repórter:
+— Com essa idade não tem medo de morrer?
+Diz o velho:
+— Não! Todas as estatísticas dizem que, na minha idade, morre muito pouca gente...
+
+ITEM:
+No trecho "...na minha idade, morre muito pouca gente...", a palavra destacada "muito" estabelece uma relação de sentido de:
+
+A) Tempo.
+B) Lugar.
+C) Intensidade.
+D) Oposição.
+
+RESPOSTA:
+C
+
+===
+
+TEXTO:
+Pergunta um repórter:
+— Que idade o senhor tem?
+Responde o velho:
+— Noventa e oito anos.
+O repórter:
+— Com essa idade não tem medo de morrer?
+Diz o velho:
+— Não! Todas as estatísticas dizem que, na minha idade, morre muito pouca gente...
+
+ITEM:
+O efeito de humor nesse texto é provocado principalmente porque:
+
+A) O idoso interpreta um dado estatístico de forma distorcida.
+B) O entrevistado mente sobre a própria idade para parecer mais jovem.
+C) O repórter faz perguntas incompreensíveis sobre matemática avançada.
+D) O repórter se assusta com a idade do entrevistado e desiste da matéria.
+
+RESPOSTA:
+A
+
+===
 
 ===
