@@ -930,6 +930,16 @@ async function telaCreditos() {
   corpo.appendChild(criarBotao("Voltar", telaMenu));
 }
 
+async function quizzesLiberadosParaTurma() {
+  if (!ALUNO_REGISTRA || !ALUNO_TURMA || !window.firebasePronto) return null;
+  try {
+    const snap = await window.firestoreGetDoc(window.firestoreDoc(window.firestoreDB, "liberacoes", idSessao(ALUNO_TURMA)));
+    if (!snap.exists()) return null;
+    const v = (snap.data() || {}).visiveis;
+    return Array.isArray(v) ? v : null;
+  } catch (e) { return null; }
+}
+
 async function telaCategorias() {
   const corpo = cabecalho("Categorias");
   let arquivos = [];
@@ -937,6 +947,13 @@ async function telaCategorias() {
     arquivos = await buscarLista("perguntas/lista.txt");
   } catch (e) {
     await digitarParagrafo(corpo, "Não encontrei perguntas/lista.txt.", "erro-texto");
+    return;
+  }
+  const liberados = await quizzesLiberadosParaTurma();
+  if (liberados) arquivos = arquivos.filter(a => liberados.includes(a.replace(".txt", "")));
+  if (!arquivos.length) {
+    await digitarParagrafo(corpo, "Nenhum quiz liberado para a sua turma no momento.", "erro-texto");
+    corpo.appendChild(criarBotao("Voltar", telaMenu));
     return;
   }
   for (const arquivo of arquivos) {
