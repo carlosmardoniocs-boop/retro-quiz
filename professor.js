@@ -5,10 +5,11 @@ window.telaProfessor = function () {
   corpo.appendChild(criarBotao('<span class="rotulo">›</span>Configurar quizzes', profListaQuizzes));
   corpo.appendChild(criarBotao('<span class="rotulo">›</span>Acompanhar turma', profEscolherTurma));
   corpo.appendChild(criarBotao('<span class="rotulo">›</span>Gerar planilha', profEscolherTurmaPlanilha));
+  corpo.appendChild(criarBotao('<span class="rotulo">›</span>Organizar quizzes', profOrganizarTurma));
   corpo.appendChild(criarBotao("Sair do painel", telaLogin));
   const versao = document.createElement("p");
   versao.className = "rodape-dica";
-  versao.textContent = "painel v7 (etapas 1 a 7)";
+  versao.textContent = "painel v9 (etapas 1 a 9)";
   corpo.appendChild(versao);
 };
 
@@ -419,4 +420,79 @@ async function profGerarPlanilha(turma, quiz) {
   }
   corpo.appendChild(criarBotao("Gerar de novo", () => profGerarPlanilha(turma, quiz)));
   corpo.appendChild(criarBotao("Voltar", () => profEscolherQuizPlanilha(turma)));
+}
+
+
+// ===== ETAPA 9: ORGANIZAR QUIZZES POR TURMA =====
+
+async function profOrganizarTurma() {
+  const corpo = cabecalho("Organizar quizzes");
+  const turmas = (await carregarTurmasCache()).filter(t => t.arquivo);
+  if (!turmas.length) await digitarParagrafo(corpo, "Nenhuma turma com lista de alunos em turmas.txt.", "erro-texto");
+  for (const t of turmas) corpo.appendChild(criarBotao('<span class="rotulo">›</span>' + t.titulo, () => profOrganizar(t)));
+  corpo.appendChild(criarBotao("Voltar", window.telaProfessor));
+}
+
+async function profOrganizar(turma) {
+  const corpo = cabecalho(turma.titulo);
+  if (!window.firebasePronto) {
+    await digitarParagrafo(corpo, "Firebase não está pronto.", "erro-texto");
+    corpo.appendChild(criarBotao("Voltar", profOrganizarTurma));
+    return;
+  }
+  let nomes = [];
+  try { nomes = (await buscarLista("perguntas/lista.txt")).map(a => a.replace(".txt", "")); } catch (e) {}
+  const fs = await import(PROF_FS_URL);
+  const ref = fs.doc(window.firestoreDB, "liberacoes", idSessao(turma.titulo));
+  let visiveis = nomes.slice();
+  let configurado = false;
+  try {
+    const snap = await fs.getDoc(ref);
+    const v = snap.exists() ? (snap.data() || {}).visiveis : null;
+    if (Array.isArray(v)) { visiveis = v.filter(n => nomes.includes(n)); configurado = true; }
+  } catch (e) {}
+
+  const info = document.createElement("p");
+  info.className = "rodape-dica";
+  corpo.appendChild(info);
+  const estado = document.createElement("p");
+  corpo.appendChild(estado);
+  const botoes = [];
+
+  const desenhar = () => {
+    info.textContent = configurado
+      ? "Os alunos desta turma veem só os quizzes marcados com ✔."
+      : "Turma ainda não organizada: todos os quizzes aparecem. Toque para escolher.";
+    for (const b of botoes) {
+      const vis = visiveis.includes(b.nome);
+      b.el.className = "opcao" + (vis ? " selecionada" : "");
+      b.el.textContent = (vis ? "✔ " : "✘ ") + b.nome + (vis ? "" : " (oculto)");
+    }
+  };
+  const salvar = async () => {
+    estado.className = "destaque-texto";
+    estado.textContent = "Salvando...";
+    try {
+      await fs.setDoc(ref, { turma: turma.titulo, visiveis: visiveis });
+      configurado = true;
+      estado.textContent = "Salvo.";
+    } catch (e) {
+      estado.className = "erro-texto";
+      estado.textContent = "Não consegui salvar. Verifique a internet.";
+    }
+    desenhar();
+  };
+
+  for (const nome of nomes) {
+    const el = criarBotao("", () => {
+      visiveis = visiveis.includes(nome) ? visiveis.filter(n => n !== nome) : visiveis.concat(nome);
+      salvar();
+    }, false, { semSom: true });
+    botoes.push({ nome, el });
+    corpo.appendChild(el);
+  }
+  corpo.appendChild(criarBotao("Mostrar todos", () => { visiveis = nomes.slice(); salvar(); }));
+  corpo.appendChild(criarBotao("Ocultar todos", () => { visiveis = []; salvar(); }));
+  corpo.appendChild(criarBotao("Voltar", profOrganizarTurma));
+  desenhar();
 }
