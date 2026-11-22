@@ -1593,3 +1593,5 @@ D) O repórter se assusta com a idade do entrevistado e desiste da matéria.
 
 RESPOSTA:
 A
+
+===
