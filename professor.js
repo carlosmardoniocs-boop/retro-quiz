@@ -3,13 +3,13 @@
 window.telaProfessor = function () {
   const corpo = cabecalho("Professor");
   corpo.appendChild(criarBotao('<span class="rotulo">›</span>Configurar quizzes', profListaQuizzes));
+  corpo.appendChild(criarBotao('<span class="rotulo">›</span>Organizar quizzes', profOrganizarTurma));
   corpo.appendChild(criarBotao('<span class="rotulo">›</span>Acompanhar turma', profEscolherTurma));
   corpo.appendChild(criarBotao('<span class="rotulo">›</span>Gerar planilha', profEscolherTurmaPlanilha));
-  corpo.appendChild(criarBotao('<span class="rotulo">›</span>Organizar quizzes', profOrganizarTurma));
   corpo.appendChild(criarBotao("Sair do painel", telaLogin));
   const versao = document.createElement("p");
   versao.className = "rodape-dica";
-  versao.textContent = "painel v9 (etapas 1 a 9)";
+  versao.textContent = "painel v9b (menu e avisos)";
   corpo.appendChild(versao);
 };
 
@@ -83,7 +83,7 @@ async function profConfigQuiz(nome, cfgEmEdicao) {
       aviso.textContent = "Configuração salva.";
     } catch (e) {
       console.error(e);
-      aviso.textContent = "Não foi possível salvar.";
+      aviso.textContent = "Não foi possível salvar" + profMotivoErro(e);
     }
   }));
   corpo.appendChild(criarBotao("Voltar", profListaQuizzes));
@@ -91,6 +91,12 @@ async function profConfigQuiz(nome, cfgEmEdicao) {
 
 
 // ===== ACOMPANHAR TURMA AO VIVO + CONTROLES =====
+
+function profMotivoErro(e) {
+  const cod = e && e.code ? e.code : "";
+  if (cod === "permission-denied") return " (permission-denied): atualize as regras do Firebase.";
+  return (cod ? " (" + cod + ")" : "") + ". Verifique a internet.";
+}
 
 let PROF_FS_URL = "https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js";
 let profParar = null;
@@ -478,7 +484,7 @@ async function profOrganizar(turma) {
       estado.textContent = "Salvo.";
     } catch (e) {
       estado.className = "erro-texto";
-      estado.textContent = "Não consegui salvar. Verifique a internet.";
+      estado.textContent = "Não consegui salvar" + profMotivoErro(e);
     }
     desenhar();
   };
