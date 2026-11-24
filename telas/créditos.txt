@@ -1,10 +1,13 @@
-Sistema modular de Quiz interativo 
+Sistema Modular de Quiz interativo 
 
 Projeto criado em:
-Python
+HTML
 
 Desenvolvido por:
 Carlos 
+
+Assistênciado por:
+Claude IA
 
 Aplicado por:
 Mardônio
