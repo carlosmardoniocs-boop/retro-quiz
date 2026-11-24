@@ -9,7 +9,7 @@ window.telaProfessor = function () {
   corpo.appendChild(criarBotao("Sair do painel", telaLogin));
   const versao = document.createElement("p");
   versao.className = "rodape-dica";
-  versao.textContent = "painel v9b (menu e avisos)";
+  versao.textContent = "painel v10 (sala de espera)";
   corpo.appendChild(versao);
 };
 
@@ -114,8 +114,8 @@ function profEstadoAluno(s, agora) {
   const parado = !s.ultimoPing || (agora - new Date(s.ultimoPing).getTime()) > 60000;
   if (parado) return est("offline", "offline", OFF, OFF, false);
   if (!s.acao) return { quiz: "—", acao: "no menu", codigo: "menu", pontos: "—", cor: "var(--texto)", corQuiz: ON, on: true };
-  const cores = { lendo: "var(--texto)", acertou: ON, errou: ERRO, pulou: AMBAR, tempo: AMBAR, terminou: ON };
-  const nomes = { tempo: "tempo esgotado" };
+  const cores = { lendo: "var(--texto)", acertou: ON, errou: ERRO, pulou: AMBAR, tempo: AMBAR, terminou: ON, espera: AMBAR };
+  const nomes = { tempo: "tempo esgotado", espera: "na espera" };
   return est(nomes[s.acao] || s.acao, s.acao, cores[s.acao] || "var(--texto)", ON, true);
 }
 
@@ -159,6 +159,20 @@ async function profAcompanhar(turma) {
   const resumo = document.createElement("p");
   resumo.className = "destaque-texto";
   corpo.appendChild(resumo);
+
+  let bloqueada = false;
+  const refSala = fs.doc(db, "salas", idSessao(turma.titulo));
+  const btnSala = criarBotao("", async () => {
+    try { await fs.setDoc(refSala, { turma: turma.titulo, bloqueada: !bloqueada }); }
+    catch (e) { resumo.textContent = "Não consegui alterar a sala" + profMotivoErro(e); }
+  }, false, { semSom: true });
+  const pintarSala = () => {
+    btnSala.className = "opcao" + (bloqueada ? " selecionada" : "");
+    btnSala.textContent = bloqueada ? "Sala BLOQUEADA: toque para liberar todos" : "Sala LIBERADA: toque para bloquear (sala de espera)";
+  };
+  pintarSala();
+  corpo.appendChild(btnSala);
+
   const wrap = document.createElement("div");
   wrap.className = "tab-wrap";
   const tabela = document.createElement("table");
@@ -195,12 +209,13 @@ async function profAcompanhar(turma) {
 
   const atualizar = () => {
     const agora = Date.now();
-    let online = 0, terminaram = 0;
+    let online = 0, terminaram = 0, espera = 0;
     for (const l of linhas) {
       const s = cache[l.id];
       const e = profEstadoAluno(s, agora);
       if (e.on) online++;
       if (e.codigo === "terminou") terminaram++;
+      if (e.codigo === "espera") espera++;
       l.cel[1].textContent = e.quiz;
       l.cel[2].textContent = e.acao;
       l.cel[3].textContent = e.pontos;
@@ -210,7 +225,7 @@ async function profAcompanhar(turma) {
       l.cel[3].style.color = e.cor;
       l.btnBloq.textContent = (s && s.bloqueado) ? "Liberar" : "Bloquear";
     }
-    resumo.textContent = "Online: " + online + " de " + roster.length + " | Terminaram: " + terminaram;
+    resumo.textContent = "Online: " + online + " de " + roster.length + " | Na espera: " + espera + " | Terminaram: " + terminaram;
   };
   atualizar();
 
@@ -218,7 +233,8 @@ async function profAcompanhar(turma) {
     (snap) => { cache = {}; snap.forEach(d => { cache[d.id] = d.data(); }); atualizar(); },
     () => { resumo.textContent = "Erro ao ouvir o Firebase."; });
   const relogio = setInterval(atualizar, 5000);
-  profParar = () => { cancelar(); clearInterval(relogio); };
+  const cancelarSala = fs.onSnapshot(refSala, (snap) => { bloqueada = snap.exists() && (snap.data() || {}).bloqueada === true; pintarSala(); }, () => {});
+  profParar = () => { cancelar(); cancelarSala(); clearInterval(relogio); };
 
   corpo.appendChild(criarBotao("Voltar", () => { profParar(); profParar = null; profEscolherTurma(); }));
 }
