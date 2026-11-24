@@ -757,7 +757,11 @@ async function abrirSessao(aluno, turma) {
   }
 }
 
+let pararEspera = null;
+function cancelarEspera() { if (pararEspera) { pararEspera(); pararEspera = null; } }
+
 function encerrarEscutaLocal() {
+  cancelarEspera();
   if (intervaloHeartbeat) { clearInterval(intervaloHeartbeat); intervaloHeartbeat = null; }
   if (pararEscutaBloqueio) { pararEscutaBloqueio(); pararEscutaBloqueio = null; }
 }
@@ -839,6 +843,42 @@ async function telaIntro() {
   telaLogin();
 }
 
+async function salaBloqueada() {
+  if (!ALUNO_REGISTRA || !ALUNO_TURMA || !window.firebasePronto) return false;
+  try {
+    const snap = await window.firestoreGetDoc(window.firestoreDoc(window.firestoreDB, "salas", idSessao(ALUNO_TURMA)));
+    return snap.exists() && (snap.data() || {}).bloqueada === true;
+  } catch (e) { return false; }
+}
+
+async function jogarOuEsperar() {
+  if (await salaBloqueada()) { telaEspera(); return; }
+  telaCategorias();
+}
+
+async function telaEspera() {
+  cancelarEspera();
+  const corpo = cabecalho("Sala de espera");
+  await digitarParagrafo(corpo, "Aguardando o professor liberar o quiz para a turma.");
+  const dica = document.createElement("p");
+  dica.className = "rodape-dica";
+  dica.textContent = "Você entra sozinho assim que for liberado. Não feche o app.";
+  corpo.appendChild(dica);
+  atualizarProgresso({ acao: "espera", quizAtual: "", pontos: 0, acertos: 0 });
+  corpo.appendChild(criarBotao("Voltar ao menu", () => { cancelarEspera(); atualizarProgresso({ acao: "" }); telaMenu(); }));
+  if (!window.firebasePronto) return;
+  let ja = false;
+  try {
+    const ref = window.firestoreDoc(window.firestoreDB, "salas", idSessao(ALUNO_TURMA));
+    pararEspera = window.firestoreOnSnapshot(ref, (snap) => {
+      if (ja) return;
+      const bloqueada = snap.exists() && (snap.data() || {}).bloqueada === true;
+      if (!bloqueada) { ja = true; cancelarEspera(); somAcerto(); telaCategorias(); }
+    });
+    if (ja) cancelarEspera();
+  } catch (e) { telaCategorias(); }
+}
+
 async function telaMenu() {
   const corpo = cabecalho("Menu");
   if (ALUNO_ATUAL) {
@@ -847,7 +887,9 @@ async function telaMenu() {
     quemEsta.textContent = "logado como: " + ALUNO_ATUAL;
     corpo.appendChild(quemEsta);
   }
-  corpo.appendChild(criarBotao('<span class="rotulo">›</span>Jogar', telaCategorias));
+  const btnJogar = criarBotao('<span class="rotulo">›</span>Jogar', jogarOuEsperar);
+  corpo.appendChild(btnJogar);
+  salaBloqueada().then(b => { if (b) btnJogar.innerHTML = '<span class="rotulo">›</span>Jogar [aguardando o professor]'; });
   corpo.appendChild(criarBotao('<span class="rotulo">›</span>Configurações', telaConfiguracoes));
   corpo.appendChild(criarBotao('<span class="rotulo">›</span>Créditos', telaCreditos));
   corpo.appendChild(criarBotao('<span class="rotulo">›</span>Trocar de usuário', sairDaSessao));
@@ -959,6 +1001,7 @@ async function telaCategorias() {
   for (const arquivo of arquivos) {
     const nome = arquivo.replace(".txt", "");
     corpo.appendChild(criarBotao('<span class="rotulo">›</span>' + nome, async () => {
+      if (await salaBloqueada()) { telaEspera(); return; }
       if (ALUNO_REGISTRA) {
         const feito = await jaRespondeuQuiz(nome, ALUNO_ATUAL);
         if (feito) {
