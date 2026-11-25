@@ -1,6 +1,6 @@
-figuras.txt
-gramática.txt
+pronomes.txt
+advérbios.txt
+conjunções.txt
+simuladão.txt
 interpretação.txt
-literatura.txt
 nada.txt
-Simulado 1.txt
