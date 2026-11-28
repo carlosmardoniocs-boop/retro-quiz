@@ -1,0 +1,399 @@
+TEXTO: 
+Não foi ao treino ontem, "pois" estava com febre alta.
+
+ITEM: 
+No período apresentado, a conjunção destacada expressa ideia de:
+
+a) oposição.
+b) conclusão.
+c) explicação.
+d) alternância.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+"Conquanto" tenha estudado pouco, conseguiu responder à maioria das questões.
+
+ITEM: 
+No período apresentado, a conjunção destacada estabelece uma relação de:
+
+a) concessão.
+b) condição.
+c) consequência.
+d) conformidade.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+Os agricultores plantaram as sementes "consoante" a previsão das chuvas.
+
+ITEM: 
+No período apresentado, a conjunção destacada expressa ideia de:
+
+a) causa.
+b) conformidade.
+c) comparação.
+d) finalidade.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+"À medida que" subíamos a serra, a temperatura diminuía rapidamente.
+
+ITEM: 
+No período apresentado, a locução conjuntiva destacada estabelece uma relação de:
+
+a) tempo.
+b) proporção.
+c) modo.
+d) consequência.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+O trânsito estava completamente parado, "por isso" chegamos atrasados ao teatro.
+
+ITEM: 
+No período apresentado, a locução conjuntiva destacada introduz uma ideia de:
+
+a) conclusão.
+b) oposição.
+c) causa.
+d) condição.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+"Se" você organizar seus horários, terá tempo livre no fim de semana.
+
+ITEM: 
+No período apresentado, a conjunção destacada expressa ideia de:
+
+a) concessão.
+b) tempo.
+c) condição.
+d) finalidade.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+A palestra foi tão interessante "que" ninguém percebeu o tempo passar.
+
+ITEM: 
+Considerando a expressão "tão... que", a conjunção destacada introduz uma ideia de:
+
+a) causa.
+b) comparação.
+c) explicação.
+d) consequência.
+
+RESPOSTA: 
+d
+
+===
+
+TEXTO: 
+Não só leu todos os livros indicados, "mas também" escreveu resumos detalhados.
+
+ITEM: 
+No período apresentado, a locução conjuntiva destacada estabelece uma relação de:
+
+a) adição.
+b) oposição.
+c) alternância.
+d) conclusão.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+"Mal" o espetáculo terminou, o público levantou-se para aplaudir.
+
+ITEM: 
+No período apresentado, a conjunção destacada expressa ideia de:
+
+a) modo.
+b) tempo.
+c) causa.
+d) concessão.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+O time jogou com muita garra, "entretanto" não evitou a derrota no final.
+
+ITEM: 
+No período apresentado, a conjunção destacada estabelece uma relação de:
+
+a) conclusão.
+b) explicação.
+c) adição.
+d) oposição.
+
+RESPOSTA: 
+d
+
+===
+
+TEXTO: 
+"Ora" concordava com a proposta, "ora" apresentava novas dúvidas sobre o plano.
+
+ITEM: 
+No período apresentado, as conjunções destacadas estabelecem uma relação de:
+
+a) alternância.
+b) adição.
+c) oposição.
+d) conclusão.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+O evento foi transferido para o auditório "porque" começou a ventar muito forte.
+
+ITEM: 
+No período apresentado, a conjunção destacada expressa ideia de:
+
+a) finalidade.
+b) consequência.
+c) causa.
+d) condição.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+O novo sistema funciona "como" o antigo manual descrevia.
+
+ITEM: 
+No período apresentado, a conjunção destacada estabelece uma relação de:
+
+a) comparação.
+b) conformidade.
+c) causa.
+d) proporção.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+Falei mais alto "para que" os alunos do fundo da sala pudessem ouvir.
+
+ITEM: 
+No período apresentado, a locução conjuntiva destacada expressa ideia de:
+
+a) consequência.
+b) causa.
+c) finalidade.
+d) concessão.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+Aquele atleta corre rápido "como" um guepardo na savana.
+
+ITEM: 
+No período apresentado, a conjunção destacada estabelece uma relação de:
+
+a) conformidade.
+b) comparação.
+c) causa.
+d) modo.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+"Contanto que" todos colaborem, terminaremos a limpeza antes do meio-dia.
+
+ITEM: 
+No período apresentado, a locução conjuntiva destacada expressa ideia de:
+
+a) condição.
+b) concessão.
+c) tempo.
+d) proporção.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+"Mesmo que" chova amanhã, a feira de ciências acontecerá no ginásio.
+
+ITEM: 
+No período apresentado, a locução conjuntiva destacada estabelece uma relação de:
+
+a) condição.
+b) causa.
+c) concessão.
+d) finalidade.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+"Logo que" recebeu a notícia da aprovação, ligou para os pais.
+
+ITEM: 
+No período apresentado, a locução conjuntiva destacada expressa ideia de:
+
+a) tempo.
+b) consequência.
+c) causa.
+d) modo.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+O rio transbordou "já que" choveu ininterruptamente durante três dias.
+
+ITEM: 
+No período apresentado, a locução conjuntiva destacada expressa ideia de:
+
+a) consequência.
+b) causa.
+c) finalidade.
+d) oposição.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+Os preços dos alimentos subiram, "pois" a colheita foi prejudicada pela seca.
+
+ITEM: 
+No período apresentado, a conjunção destacada introduz uma ideia de:
+
+a) explicação.
+b) conclusão.
+c) adição.
+d) alternância.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+Não comprou o ingresso antecipado, "por conseguinte" ficou sem lugar na plateia.
+
+ITEM: 
+No período apresentado, a locução conjuntiva destacada estabelece uma relação de:
+
+a) oposição.
+b) causa.
+c) conclusão.
+d) explicação.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+"Quanto mais" praticamos a leitura, melhor escrevemos nossos textos.
+
+ITEM: 
+No período apresentado, a locução conjuntiva destacada expressa ideia de:
+
+a) comparação.
+b) proporção.
+c) tempo.
+d) condição.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+Enviei o relatório por e-mail "a fim de que" a gerência analisasse os dados.
+
+ITEM: 
+No período apresentado, a locução conjuntiva destacada estabelece uma relação de:
+
+a) causa.
+b) consequência.
+c) conformidade.
+d) finalidade.
+
+RESPOSTA: 
+d
+
+===
+
+TEXTO: 
+O dia amanheceu ensolarado, "no entanto" a água do mar continuava gelada.
+
+ITEM: 
+No período apresentado, a locução conjuntiva destacada expressa ideia de:
+
+a) oposição.
+b) conclusão.
+c) adição.
+d) explicação.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+"Quer" você aceite o convite, "quer" prefira ficar em casa, respeitarei sua decisão.
+
+ITEM: 
+No período apresentado, as conjunções destacadas estabelecem uma relação de:
+
+a) adição.
+b) oposição.
+c) alternância.
+d) concessão.
+
+RESPOSTA: 
+c
+
+===
