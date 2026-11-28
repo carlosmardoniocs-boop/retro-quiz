@@ -3,4 +3,9 @@ advérbios.txt
 conjunções.txt
 simuladão.txt
 interpretação.txt
+pronomes 2.0.txt
+advérbios 2.0.txt
+conjunções 2.0.txt
+figuras de linguagem.txt
+interpretação 2.0.txt
 nada.txt
