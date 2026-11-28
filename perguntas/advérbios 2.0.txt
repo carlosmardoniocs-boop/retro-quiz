@@ -1,0 +1,399 @@
+TEXTO: 
+"Ontem" a biblioteca municipal recebeu uma nova remessa de romances.
+
+ITEM: 
+No período apresentado, o termo destacado expressa circunstância de:
+
+a) lugar.
+b) tempo.
+c) modo.
+d) afirmação.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+O artesão esculpiu a peça de madeira "pacientemente" durante semanas.
+
+ITEM: 
+No período apresentado, o termo destacado expressa circunstância de:
+
+a) tempo.
+b) intensidade.
+c) modo.
+d) lugar.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+"Acaso" você sabe informar a que horas começa a sessão de cinema?
+
+ITEM: 
+No período apresentado, o termo destacado expressa circunstância de:
+
+a) dúvida.
+b) afirmação.
+c) negação.
+d) tempo.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+Os turistas caminharam "pela praia" até o pôr do sol.
+
+ITEM: 
+No período apresentado, a locução adverbial destacada expressa circunstância de:
+
+a) modo.
+b) tempo.
+c) lugar.
+d) intensidade.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+A sala de aula estava "pouco" iluminada naquela tarde nublada.
+
+ITEM: 
+No período apresentado, o termo destacado expressa circunstância de:
+
+a) modo.
+b) intensidade.
+c) negação.
+d) dúvida.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+"Realmente" o desempenho da equipe superou todas as expectativas.
+
+ITEM: 
+No período apresentado, o termo destacado expressa circunstância de:
+
+a) dúvida.
+b) modo.
+c) afirmação.
+d) intensidade.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+"Tampouco" os organizadores sabiam o motivo do atraso da banda.
+
+ITEM: 
+No período apresentado, o termo destacado expressa circunstância de:
+
+a) negação.
+b) dúvida.
+c) tempo.
+d) afirmação.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+"De manhã", o movimento nas padarias do bairro é sempre intenso.
+
+ITEM: 
+No período apresentado, a locução adverbial destacada expressa circunstância de:
+
+a) lugar.
+b) modo.
+c) intensidade.
+d) tempo.
+
+RESPOSTA: 
+d
+
+===
+
+TEXTO: 
+Os voluntários trabalharam "em silêncio" para não acordar os pacientes.
+
+ITEM: 
+No período apresentado, a locução adverbial destacada expressa circunstância de:
+
+a) modo.
+b) tempo.
+c) lugar.
+d) negação.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+O avião sobrevoou "acima das nuvens" durante toda a viagem.
+
+ITEM: 
+No período apresentado, a locução adverbial destacada expressa circunstância de:
+
+a) tempo.
+b) modo.
+c) lugar.
+d) intensidade.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+O café estava "demasiadamente" quente para ser bebido naquela hora.
+
+ITEM: 
+No período apresentado, o termo destacado expressa circunstância de:
+
+a) modo.
+b) intensidade.
+c) tempo.
+d) afirmação.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+"Sem dúvida" essa foi a melhor apresentação teatral do festival.
+
+ITEM: 
+No período apresentado, a locução adverbial destacada expressa circunstância de:
+
+a) dúvida.
+b) negação.
+c) afirmação.
+d) modo.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+O equilibrista atravessou a corda "com destreza" diante da plateia.
+
+ITEM: 
+No período apresentado, a locução adverbial destacada expressa circunstância de:
+
+a) modo.
+b) lugar.
+c) intensidade.
+d) tempo.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+"Frequentemente" visitamos nossos avós no sítio durante os feriados.
+
+ITEM: 
+No período apresentado, o termo destacado expressa circunstância de:
+
+a) lugar.
+b) modo.
+c) tempo.
+d) dúvida.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+"Provavelmente" o pacote chegará pelos correios ainda hoje.
+
+ITEM: 
+No período apresentado, o termo destacado expressa circunstância de:
+
+a) afirmação.
+b) dúvida.
+c) tempo.
+d) modo.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+As crianças brincavam "lá fora" enquanto os adultos conversavam na varanda.
+
+ITEM: 
+No período apresentado, a expressão destacada expressa circunstância de:
+
+a) tempo.
+b) modo.
+c) lugar.
+d) intensidade.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+O público aplaudiu "efusivamente" ao término da sinfonia.
+
+ITEM: 
+No período apresentado, o termo destacado expressa circunstância de:
+
+a) modo.
+b) tempo.
+c) afirmação.
+d) lugar.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+"De forma alguma" permitiremos que o patrimônio histórico seja destruído.
+
+ITEM: 
+No período apresentado, a locução adverbial destacada expressa circunstância de:
+
+a) dúvida.
+b) modo.
+c) negação.
+d) intensidade.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+O preço da passagem aumentou "consideravelmente" neste último mês.
+
+ITEM: 
+No período apresentado, o termo destacado expressa circunstância de:
+
+a) tempo.
+b) modo.
+c) lugar.
+d) intensidade.
+
+RESPOSTA: 
+d
+
+===
+
+TEXTO: 
+"Atualmente", muitas empresas adotam o modelo de trabalho remoto.
+
+ITEM: 
+No período apresentado, o termo destacado expressa circunstância de:
+
+a) lugar.
+b) tempo.
+c) modo.
+d) afirmação.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+O gato escondeu-se "debaixo da cama" assim que ouviu o trovão.
+
+ITEM: 
+No período apresentado, a locução adverbial destacada expressa circunstância de:
+
+a) modo.
+b) tempo.
+c) lugar.
+d) intensidade.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+"Efetivamente", as medidas tomadas reduziram o desperdício de água.
+
+ITEM: 
+No período apresentado, o termo destacado expressa circunstância de:
+
+a) afirmação.
+b) dúvida.
+c) modo.
+d) tempo.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+O estudante respondeu "à toa" sem ler o enunciado com atenção.
+
+ITEM: 
+No período apresentado, a locução adverbial destacada expressa circunstância de:
+
+a) tempo.
+b) lugar.
+c) dúvida.
+d) modo.
+
+RESPOSTA: 
+d
+
+===
+
+TEXTO: 
+Choveu "menos" na região serrana do que no litoral neste inverno.
+
+ITEM: 
+No período apresentado, o termo destacado expressa circunstância de:
+
+a) modo.
+b) intensidade.
+c) negação.
+d) tempo.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+"Por certo" eles já chegaram ao destino, pois o voo era curto.
+
+ITEM: 
+No período apresentado, a locução adverbial destacada expressa circunstância de:
+
+a) dúvida.
+b) tempo.
+c) afirmação.
+d) lugar.
+
+RESPOSTA: 
+c
+
+===
