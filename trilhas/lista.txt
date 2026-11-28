@@ -1,2 +1,13 @@
-The_Beatles_-_Blackbird.mid
-The_Beatles_-_Yesterday.mid
+Barbie_Girl.mid
+Beat_it.mid
+Billie_Jean.mid
+Blackbird.mid
+Boys.mid
+Let_it_Be.mid
+Mortal_Kombat.mid
+My_Way.mid
+O_Bom_o_Mau_e_o_Feio.mid
+Pink_Panter.mid
+Rock_Clock.mid
+Thriller.mid
+Yesterday.mid
