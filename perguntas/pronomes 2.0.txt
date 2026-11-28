@@ -1,0 +1,399 @@
+TEXTO: 
+O pintor terminou o quadro pela manhã e "o" expôs na galeria central.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) pintor.
+b) quadro.
+c) manhã.
+d) galeria central.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+A bibliotecária separou as revistas antigas e guardou-"as" na estante superior.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) bibliotecária.
+b) estante superior.
+c) revistas antigas.
+d) coleções.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+O treinador reuniu os jogadores no vestiário e deu-"lhes" as últimas instruções.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) treinador.
+b) jogadores.
+c) instruções.
+d) vestiário.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+Encontrei o relógio perdido no jardim e entreguei-"o" ao porteiro do prédio.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) jardim.
+b) porteiro.
+c) prédio.
+d) relógio perdido.
+
+RESPOSTA: 
+d
+
+===
+
+TEXTO: 
+A encomenda chegou com atraso, mas o cliente decidiu aceitá-"la" mesmo assim.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) encomenda.
+b) atraso.
+c) cliente.
+d) entrega.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+Os agricultores colheram as laranjas e transportaram-"nas" até a feira livre.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) agricultores.
+b) laranjas.
+c) feira livre.
+d) caixas.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+A criança pediu um copo de água à mãe e ela serviu-"lhe" imediatamente.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) mãe.
+b) copo de água.
+c) criança.
+d) cozinha.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+Os convites da formatura ficaram prontos, então precisamos distribuí-"los" hoje.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) convites da formatura.
+b) formandos.
+c) convidados.
+d) envelopes.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+O jardineiro podou o arbusto e regou-"o" logo em seguida.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) jardineiro.
+b) arbusto.
+c) solo.
+d) canteiro.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+As provas corrigidas estavam sobre a mesa e o professor devolveu-"as" à turma.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) mesa.
+b) turma.
+c) notas.
+d) provas corrigidas.
+
+RESPOSTA: 
+d
+
+===
+
+TEXTO: 
+O gerente ouviu a reclamação da cliente e prometeu-"lhe" uma solução rápida.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) gerente.
+b) reclamação.
+c) cliente.
+d) solução.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+O carpinteiro construiu a estante de madeira e envernizou-"a" com capricho.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) carpinteiro.
+b) estante de madeira.
+c) oficina.
+d) madeira.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+Os bilhetes do espetáculo esgotaram, pois o público comprou-"os" pela internet.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) espetáculo.
+b) público.
+c) bilhetes do espetáculo.
+d) ingressos virtuais.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+O redator revisou a reportagem antes de publicá-"la" na edição de domingo.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) reportagem.
+b) redator.
+c) edição.
+d) revista.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+Os alunos apresentaram os trabalhos e o jurado avaliou-"os" com rigor.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) alunos.
+b) trabalhos.
+c) jurado.
+d) critérios.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+O avô chamou o neto e mostrou-"lhe" o álbum de fotografias antigas.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) avô.
+b) álbum.
+c) neto.
+d) fotografias.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+As janelas estavam empoeiradas, por isso limpamos-"nas" com um pano úmido.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) janelas.
+b) cortinas.
+c) paredes.
+d) portas.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+O músico afinou o violão e tocou-"o" durante toda a serenata.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) músico.
+b) serenata.
+c) violão.
+d) acorde.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+As regras do torneio foram alteradas, mas ninguém comunicou-"as" aos atletas.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) atletas.
+b) regras do torneio.
+c) organizadores.
+d) partidas.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+A secretária atendeu o visitante e informou-"lhe" que a reunião havia começado.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) secretária.
+b) reunião.
+c) visitante.
+d) diretoria.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+O menino ganhou um brinquedo novo e levou-"o" para mostrar aos amigos.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) brinquedo novo.
+b) menino.
+c) amigos.
+d) parque.
+
+RESPOSTA: 
+a
+
+===
+
+TEXTO: 
+Onde estão as cartas que chegaram hoje? Preciso lê-"las" urgentemente.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) notícias.
+b) mensagens.
+c) cartas.
+d) encomendas.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+A professora elogiou a redação do estudante e devolveu-"lhe" o caderno com nota máxima.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) professora.
+b) redação.
+c) estudante.
+d) caderno.
+
+RESPOSTA: 
+c
+
+===
+
+TEXTO: 
+Os pescadores consertaram os barcos e pintaram-"nos" antes da temporada de pesca.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) pescadores.
+b) barcos.
+c) remos.
+d) mares.
+
+RESPOSTA: 
+b
+
+===
+
+TEXTO: 
+A receita do bolo parecia difícil, mas a cozinheira preparou-"a" sem problemas.
+
+ITEM: 
+No período apresentado, o pronome destacado refere-se a:
+
+a) cozinheira.
+b) cozinha.
+c) receita do bolo.
+d) sobremesa.
+
+RESPOSTA: 
+c
+
+===
