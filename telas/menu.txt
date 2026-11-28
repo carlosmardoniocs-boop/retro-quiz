@@ -3,6 +3,6 @@
 
 2 - Configurações 
 
-3 - Créditos
+3 - Créditos.txt
 
 4 - Sair
